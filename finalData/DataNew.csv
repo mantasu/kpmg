@@ -1,0 +1,1001 @@
+fullName,gender,pastPurchases,ageGroup,jobIndustry,wealthSegment,ownsCar,tenure,state,propertyValuation,evaluation
+Chickie Brister,Male,80-89,60+,Manufacturing,Mass Customer,Yes,12-15,QLD,6,3
+Morly Genery,Male,60-69,50-59,Property,Mass Customer,No,16-19,NSW,11,4
+Ardelis Forrester,Female,10-19,40-49,Financial Services,Affluent Customer,No,08-11,VIC,5,3
+Lucine Stutt,Female,60-69,40-49,Manufacturing,Affluent Customer,Yes,04-07,QLD,1,3
+Melinda Hadlee,Female,30-39,50-59,Financial Services,Affluent Customer,No,16-19,NSW,9,4
+Druci Brandli,Female,30-39,60+,Entertainment,High Net Worth,Yes,20-22,QLD,7,0
+Rutledge Hallt,Male,20-29,40-49,Financial Services,Mass Customer,No,08-11,NSW,7,5
+Nancie Vian,Female,70-79,40-49,Retail,Mass Customer,Yes,08-11,QLD,5,3
+Duff Karlowicz,Male,50-59,40-49,Manufacturing,Mass Customer,Yes,04-07,NSW,10,6
+Barthel Docket,Male,70-79,30-39,IT,Mass Customer,Yes,16-19,QLD,5,2
+Rockwell Matson,Male,90-99,18-29,Retail,High Net Worth,No,00-03,QLD,6,0
+Wheeler Winward,Male,40-49,18-29,Manufacturing,Mass Customer,No,08-11,VIC,8,4
+,Male,60-69,30-39,Telecommunications,Mass Customer,No,08-11,NSW,11,4
+Melba Spellacy,Female,30-39,40-49,Health,Mass Customer,No,04-07,NSW,10,6
+Mandie Feares,Female,30-39,50-59,Health,Mass Customer,No,08-11,QLD,8,4
+Dukie Swire,Male,80-89,60+,Manufacturing,Affluent Customer,Yes,04-07,NSW,8,4
+Marcelia Monkleigh,Female,60-69,18-29,Manufacturing,Mass Customer,Yes,04-07,QLD,6,3
+Winnifred Beswetherick,Female,80-89,40-49,Financial Services,Mass Customer,No,12-15,VIC,10,5
+Odilia Quick,Female,60-69,60+,Manufacturing,Affluent Customer,Yes,08-11,NSW,11,4
+Karly Willavize,Female,0-9,60+,Manufacturing,High Net Worth,No,12-15,NSW,10,4
+Teddie Burchill,Male,10-19,50-59,Manufacturing,Mass Customer,Yes,12-15,NSW,9,5
+Gaston Dallaghan,Male,40-49,18-29,Financial Services,Mass Customer,Yes,08-11,NSW,7,4
+Otis Ottey,Male,20-29,18-29,,Mass Customer,No,00-03,QLD,4,1
+Tabbatha Averill,Female,0-9,40-49,,Affluent Customer,Yes,12-15,NSW,8,4
+Brena Schnitter,Female,70-79,30-39,Manufacturing,Mass Customer,No,04-07,QLD,5,3
+Rourke Gillbard,Male,10-19,60+,Property,Mass Customer,No,16-19,QLD,4,2
+Dyane Burwell,Female,10-19,60+,Retail,Mass Customer,Yes,04-07,NSW,2,3
+Claudine Barstowk,Female,70-79,50-59,Property,High Net Worth,Yes,04-07,QLD,11,2
+Blinnie Roze,Female,80-89,60+,Entertainment,High Net Worth,No,08-11,QLD,7,1
+Rhona De Freyne,Female,40-49,60+,Health,High Net Worth,No,08-11,VIC,10,3
+Sharron Claibourn,Female,60-69,40-49,Financial Services,High Net Worth,Yes,16-19,NSW,8,5
+Brien Heaton,Male,70-79,60+,Health,Mass Customer,Yes,12-15,NSW,2,4
+Sybilla MacCart,Female,80-89,30-39,Financial Services,Mass Customer,Yes,04-07,NSW,7,4
+Mikel McNess,Male,70-79,30-39,,Mass Customer,No,08-11,QLD,9,3
+Maisie Maddox,Female,20-29,40-49,Financial Services,Affluent Customer,No,20-22,VIC,9,3
+Arleen Casbolt,Female,40-49,40-49,Financial Services,Affluent Customer,Yes,12-15,QLD,1,3
+Farlie Petford,Male,70-79,50-59,,High Net Worth,No,12-15,NSW,10,3
+Mitchell MacCague,Male,50-59,40-49,Manufacturing,Mass Customer,No,12-15,VIC,8,5
+Garik Whitwell,Male,40-49,60+,Property,Mass Customer,Yes,12-15,VIC,2,2
+Antonin Britt,Male,60-69,18-29,Manufacturing,Affluent Customer,Yes,08-11,NSW,9,4
+Vinny Incogna,Female,70-79,60+,Health,High Net Worth,No,08-11,NSW,8,4
+Colene Fishleigh,Female,20-29,30-39,Financial Services,Mass Customer,No,00-03,VIC,10,3
+Neile Argent,Female,70-79,60+,Retail,Mass Customer,No,08-11,NSW,10,4
+Corinna Suggey,Female,50-59,50-59,,Affluent Customer,No,08-11,NSW,8,3
+Brooke Arling,Male,70-79,50-59,,High Net Worth,No,04-07,VIC,5,1
+Gipsy Ewestace,Female,20-29,60+,Retail,High Net Worth,Yes,04-07,NSW,12,2
+Sheena Kybbye,Female,10-19,60+,Financial Services,Affluent Customer,Yes,16-19,QLD,1,2
+Jobina Gobourn,Female,80-89,18-29,,High Net Worth,Yes,12-15,QLD,4,1
+Gale Disbrow,Female,50-59,40-49,Financial Services,Mass Customer,Yes,16-19,VIC,7,4
+Thaxter Kingsbury,Male,10-19,60+,Argiculture,Mass Customer,No,20-22,NSW,12,2
+Heinrick Shilstone,Male,60-69,40-49,Manufacturing,Affluent Customer,No,08-11,VIC,8,4
+Taylor Steuhlmeyer,Male,60-69,18-29,Financial Services,Affluent Customer,Yes,04-07,QLD,8,3
+Griswold Kelsall,Male,50-59,18-29,Health,High Net Worth,Yes,08-11,VIC,7,2
+Odessa Mc Andrew,Female,90-99,30-39,Property,Mass Customer,No,08-11,NSW,10,4
+Lavena Seekings,Female,80-89,18-29,Retail,Mass Customer,No,16-19,VIC,10,3
+Martelle Tuppeny,Female,50-59,30-39,Manufacturing,Mass Customer,No,08-11,NSW,10,5
+Briant Ladley,Male,70-79,40-49,Argiculture,Mass Customer,No,12-15,NSW,8,5
+Marylou Kirkup,Female,50-59,40-49,,Mass Customer,No,12-15,VIC,9,4
+,Male,60-69,50-59,,Mass Customer,Yes,08-11,VIC,5,2
+Normy Goodinge,U,0-9,60+,IT,Mass Customer,No,04-07,VIC,5,2
+Lorrie Antonelli,Male,40-49,30-39,Financial Services,High Net Worth,Yes,16-19,NSW,7,3
+Jedediah Kedie,Male,30-39,40-49,Argiculture,Mass Customer,Yes,08-11,NSW,9,5
+Kaine Smallcombe,Male,50-59,60+,Financial Services,High Net Worth,No,08-11,NSW,10,4
+Loise Iltchev,Female,70-79,50-59,Manufacturing,High Net Worth,Yes,16-19,QLD,6,2
+Cristen Maroney,Female,20-29,18-29,IT,High Net Worth,Yes,04-07,QLD,7,1
+Dorothy Barnardo,Female,50-59,30-39,Retail,High Net Worth,No,12-15,NSW,8,3
+Rosmunda Duxbarry,Female,60-69,18-29,Property,Affluent Customer,Yes,04-07,QLD,11,2
+Rozamond Riha,Female,50-59,30-39,Manufacturing,Affluent Customer,Yes,16-19,QLD,7,2
+Gunner Petti,Male,60-69,18-29,Financial Services,High Net Worth,Yes,00-03,QLD,5,1
+Vivienne Crayden,Female,80-89,30-39,,High Net Worth,Yes,04-07,QLD,7,1
+Sherilyn Canero,Female,10-19,18-29,Health,High Net Worth,Yes,12-15,NSW,7,3
+Bessie Roscow,Female,70-79,18-29,Financial Services,Mass Customer,No,08-11,NSW,10,5
+Kevina Ferandez,Female,70-79,18-29,Financial Services,High Net Worth,No,12-15,QLD,9,3
+Yancy Clementet,Male,0-9,50-59,,High Net Worth,No,12-15,NSW,9,3
+Mabelle Wellbelove,Female,70-79,60+,Financial Services,Affluent Customer,Yes,16-19,NSW,9,4
+Hasheem Groucock,Male,90-99,40-49,Manufacturing,High Net Worth,Yes,08-11,NSW,12,4
+Tobias Woodhams,Male,0-9,50-59,Health,Mass Customer,No,16-19,NSW,9,5
+Glennis Flintoff,Female,30-39,60+,Health,Affluent Customer,Yes,12-15,VIC,7,2
+Chanda Mensler,Female,10-19,40-49,Manufacturing,Mass Customer,Yes,12-15,NSW,10,6
+Katheryn Kinner,Female,10-19,40-49,Entertainment,High Net Worth,No,04-07,NSW,6,3
+Sumner Carrivick,Male,50-59,18-29,Manufacturing,Mass Customer,No,12-15,NSW,12,4
+Valerie Pickover,Female,30-39,50-59,Financial Services,Mass Customer,No,08-11,NSW,8,5
+Esther Rooson,Female,10-19,30-39,Financial Services,Mass Customer,No,04-07,NSW,9,5
+Gardie Crellim,Male,50-59,40-49,Manufacturing,High Net Worth,No,08-11,VIC,12,3
+Sean O'Loughlin,Male,40-49,50-59,Manufacturing,High Net Worth,Yes,16-19,NSW,10,4
+Pietra Buckleigh,Female,0-9,60+,,High Net Worth,No,12-15,NSW,10,3
+Marysa Rouchy,Female,0-9,18-29,Entertainment,Affluent Customer,No,04-07,NSW,9,3
+,Male,0-9,60+,,High Net Worth,No,12-15,NSW,12,2
+Ossie Midden,Male,40-49,60+,Manufacturing,Mass Customer,Yes,12-15,NSW,9,5
+Sid Carlone,Male,20-29,40-49,Health,Affluent Customer,No,16-19,QLD,2,3
+Ludovico Juster,Male,90-99,18-29,,Affluent Customer,No,12-15,NSW,10,3
+Patricia Everix,Female,30-39,40-49,Health,Mass Customer,No,16-19,NSW,7,5
+Andromache Bonafacino,Female,80-89,40-49,Retail,Mass Customer,No,08-11,NSW,9,5
+Levy Abramamov,Male,90-99,60+,,Affluent Customer,Yes,12-15,QLD,8,2
+Nobe McAughtry,Male,20-29,40-49,,Mass Customer,No,12-15,QLD,5,3
+Jehu Prestedge,Male,90-99,18-29,Manufacturing,High Net Worth,Yes,08-11,NSW,12,3
+Symon Mawne,Male,10-19,60+,Property,Mass Customer,Yes,12-15,VIC,4,2
+Karlik Penchen,Male,60-69,18-29,Retail,Mass Customer,No,08-11,QLD,6,2
+Bengt Bilson,Male,20-29,40-49,Manufacturing,High Net Worth,No,08-11,NSW,10,5
+Evangelin Boc,Female,30-39,18-29,Manufacturing,High Net Worth,Yes,12-15,VIC,8,3
+Hanny Treven,Female,80-89,18-29,Retail,Mass Customer,No,00-03,QLD,4,1
+Gina Mallon,Female,50-59,18-29,Health,Mass Customer,No,12-15,QLD,2,3
+Reynold Elman,Male,10-19,60+,Manufacturing,Mass Customer,No,08-11,NSW,2,4
+Flossy Concannon,Female,60-69,40-49,Financial Services,Affluent Customer,No,08-11,VIC,2,3
+Cristen Wiltshire,Female,50-59,50-59,Financial Services,High Net Worth,Yes,12-15,VIC,6,2
+Griffith Escot,Male,50-59,60+,IT,Mass Customer,Yes,16-19,QLD,3,2
+Jamie Jiruca,Female,20-29,50-59,Argiculture,Mass Customer,No,16-19,NSW,9,4
+Lyon Brittan,Male,10-19,40-49,Retail,High Net Worth,No,16-19,VIC,8,3
+Aridatha Sephton,Female,90-99,50-59,,Mass Customer,No,04-07,NSW,1,3
+Michal Bryan,Female,0-9,50-59,Manufacturing,Mass Customer,Yes,16-19,QLD,8,4
+Franciska Stigell,Female,90-99,50-59,Health,Mass Customer,Yes,04-07,VIC,7,3
+Jordan Clampe,Male,30-39,60+,Financial Services,Mass Customer,Yes,08-11,QLD,5,3
+David Napoleon,Male,70-79,50-59,,High Net Worth,No,12-15,NSW,11,3
+Meriel Tapp,Female,0-9,18-29,IT,Mass Customer,No,04-07,VIC,2,2
+Dolley Starmont,Female,50-59,40-49,Manufacturing,Affluent Customer,No,16-19,QLD,6,3
+Frederik Milan,Male,40-49,18-29,Health,Mass Customer,No,04-07,NSW,5,4
+Rollo Louedey,Male,60-69,60+,Telecommunications,Affluent Customer,Yes,16-19,NSW,9,3
+Jerrine Cosbey,Female,20-29,40-49,Financial Services,High Net Worth,Yes,04-07,VIC,9,4
+Roddy Rubinshtein,Male,30-39,30-39,Retail,Mass Customer,Yes,04-07,QLD,7,2
+Viki Coutts,Female,0-9,60+,Property,Mass Customer,Yes,04-07,NSW,4,3
+Ashby Bispham,Male,70-79,30-39,Retail,Affluent Customer,No,04-07,NSW,8,3
+Alexander Broadbent,Male,50-59,18-29,,Mass Customer,No,08-11,NSW,10,4
+Teddy Lagadu,Female,80-89,50-59,,High Net Worth,No,04-07,NSW,8,3
+Peria Rantoull,Female,0-9,40-49,Financial Services,Mass Customer,No,04-07,QLD,4,4
+Ludvig Andren,Male,40-49,60+,,High Net Worth,Yes,12-15,QLD,5,1
+Elsworth Abbitt,Male,70-79,60+,Health,Mass Customer,Yes,04-07,VIC,3,3
+Rebeca Aggas,Female,60-69,60+,Health,Affluent Customer,No,20-22,VIC,1,1
+Ricki Dobrowski,Male,10-19,40-49,Manufacturing,Mass Customer,Yes,08-11,NSW,1,5
+Georgetta Lovett,Female,40-49,60+,Retail,Mass Customer,No,12-15,QLD,1,2
+Bambi Cogger,Female,50-59,30-39,Retail,Affluent Customer,Yes,04-07,NSW,7,2
+Aurie Rhead,Female,70-79,50-59,Manufacturing,Affluent Customer,Yes,04-07,NSW,2,3
+Farris Skettles,Male,30-39,50-59,,Mass Customer,Yes,12-15,VIC,7,2
+Sharline Abyss,Female,10-19,60+,,Mass Customer,Yes,12-15,QLD,4,2
+Nowell Preddy,Male,20-29,30-39,Manufacturing,Mass Customer,No,08-11,NSW,9,5
+Lacy Drance,Female,20-29,40-49,Manufacturing,Affluent Customer,Yes,12-15,NSW,8,5
+Padraig Snel,Male,80-89,50-59,,Mass Customer,No,16-19,NSW,7,3
+Malorie Votier,Female,90-99,30-39,Manufacturing,Affluent Customer,No,04-07,QLD,5,2
+Shepperd Ricards,Male,20-29,50-59,Health,Mass Customer,Yes,16-19,NSW,4,4
+Daryl Pauncefort,Female,10-19,40-49,Financial Services,Mass Customer,Yes,12-15,NSW,3,5
+Norina Blakeway,Female,60-69,40-49,Property,Mass Customer,Yes,00-03,VIC,8,3
+My Chaston,Male,90-99,50-59,Manufacturing,Affluent Customer,Yes,16-19,VIC,9,3
+Isak Bergstram,Male,10-19,18-29,Health,Affluent Customer,Yes,12-15,NSW,9,4
+Grannie Cracker,Male,20-29,60+,Retail,Mass Customer,Yes,20-22,QLD,8,2
+Welby Lourenco,Male,0-9,40-49,Financial Services,High Net Worth,Yes,16-19,NSW,9,5
+Glenn Casbourne,Female,0-9,30-39,Manufacturing,Mass Customer,No,04-07,QLD,1,3
+Nadiya Balasini,Female,40-49,60+,Financial Services,Mass Customer,No,12-15,NSW,9,5
+Tyne Coate,Female,80-89,50-59,Manufacturing,Mass Customer,No,16-19,NSW,8,5
+Christie Anders,Male,30-39,50-59,Retail,Mass Customer,No,16-19,NSW,10,4
+Agnella Capener,Female,50-59,50-59,Health,High Net Worth,No,16-19,VIC,6,2
+Bernardine Delmonti,Female,30-39,40-49,Property,Mass Customer,No,16-19,NSW,8,5
+Daisy Spowart,Female,60-69,50-59,Health,Affluent Customer,Yes,04-07,QLD,3,2
+Denys Minshall,Female,30-39,50-59,Manufacturing,Affluent Customer,Yes,12-15,NSW,8,4
+Archibald Blessed,Male,60-69,50-59,Financial Services,Mass Customer,Yes,16-19,NSW,11,5
+Feodor Englishby,Male,50-59,50-59,Health,Mass Customer,No,08-11,VIC,5,3
+Skippie Yearsley,Male,0-9,60+,Financial Services,Mass Customer,No,08-11,QLD,5,3
+,Female,70-79,50-59,Property,Mass Customer,Yes,16-19,NSW,9,4
+Tessa Friese,Female,80-89,40-49,Financial Services,Mass Customer,No,20-22,QLD,9,4
+Roseanne Caruth,Female,10-19,60+,Health,Mass Customer,No,04-07,NSW,9,5
+Tedra Goodbanne,Female,0-9,40-49,,Mass Customer,Yes,04-07,VIC,9,4
+Roberto Harme,Male,20-29,60+,,High Net Worth,No,08-11,NSW,9,3
+Nichole Leisman,Male,30-39,30-39,Property,Affluent Customer,No,04-07,NSW,12,2
+Amil Ennor,Female,20-29,18-29,Health,Mass Customer,Yes,08-11,VIC,11,4
+Shawna Hinrichsen,Female,60-69,50-59,Manufacturing,Affluent Customer,Yes,08-11,NSW,2,3
+Fonsie Levane,Male,90-99,60+,,High Net Worth,Yes,16-19,QLD,3,1
+Emilie Brody,Female,0-9,40-49,,Mass Customer,Yes,00-03,NSW,11,4
+Robert Corkill,Male,50-59,40-49,Health,Mass Customer,No,04-07,NSW,10,6
+Elvira Kurten,Female,60-69,40-49,Financial Services,High Net Worth,No,12-15,NSW,3,4
+Juliana Mitchenson,Female,50-59,30-39,Manufacturing,Mass Customer,Yes,08-11,QLD,4,3
+Regine Bownes,Female,90-99,60+,Retail,Affluent Customer,No,12-15,VIC,9,2
+Abner Fraschetti,Male,30-39,30-39,Argiculture,Affluent Customer,No,12-15,VIC,7,1
+Alvira Coulman,Female,40-49,60+,,Affluent Customer,No,12-15,NSW,9,3
+Sawyer Sponton,Male,30-39,60+,Property,Mass Customer,Yes,08-11,NSW,11,4
+Feodor Vickers,Male,60-69,30-39,Financial Services,Mass Customer,Yes,04-07,NSW,6,4
+Paten Cayet,Male,50-59,18-29,Manufacturing,Affluent Customer,Yes,16-19,VIC,1,2
+Loria Tappington,Female,70-79,60+,Property,Mass Customer,No,04-07,VIC,8,3
+Tanya Kiefer,Female,50-59,18-29,Telecommunications,High Net Worth,No,04-07,NSW,9,3
+Devonne Alderwick,Female,70-79,60+,,High Net Worth,Yes,08-11,VIC,7,1
+Omero McDonand,Male,50-59,60+,Manufacturing,Mass Customer,No,16-19,NSW,9,5
+Iain Haversham,Male,90-99,60+,Retail,Mass Customer,Yes,12-15,NSW,10,4
+Keriann Newham,Female,70-79,40-49,Financial Services,Mass Customer,No,04-07,QLD,9,5
+Conroy Rappaport,Male,30-39,50-59,Health,High Net Worth,No,08-11,NSW,9,4
+Dorian Rustman,Male,70-79,40-49,Manufacturing,Mass Customer,No,16-19,QLD,7,4
+Quillan Guinane,Male,30-39,60+,,High Net Worth,Yes,20-22,NSW,8,2
+Harlin Mazin,Male,30-39,40-49,Manufacturing,Mass Customer,Yes,12-15,NSW,7,5
+Eustacia Dornan,Female,60-69,30-39,Property,Mass Customer,No,04-07,VIC,9,3
+Maury Galego,Male,60-69,18-29,Health,High Net Worth,Yes,00-03,VIC,10,2
+Reggie Kernar,Female,20-29,40-49,Financial Services,High Net Worth,No,16-19,NSW,10,5
+Brigitte Whellams,Female,60-69,40-49,,Mass Customer,Yes,16-19,NSW,8,5
+Kinna Kollasch,Female,0-9,30-39,Property,High Net Worth,No,08-11,QLD,10,2
+Maurizio Comi,Male,70-79,18-29,IT,Affluent Customer,No,08-11,NSW,9,3
+Elbertina Fendley,Female,30-39,18-29,Property,Affluent Customer,No,08-11,NSW,11,3
+Franklin Wohler,Male,50-59,60+,Health,Mass Customer,Yes,04-07,NSW,8,5
+Allyson Petchell,Female,10-19,50-59,Telecommunications,High Net Worth,No,08-11,NSW,8,3
+Ermentrude Heindle,Female,40-49,50-59,Argiculture,Mass Customer,No,04-07,NSW,10,4
+Alanna Lerway,Female,20-29,60+,Health,Mass Customer,Yes,08-11,VIC,12,3
+Vincent Jopke,Male,0-9,40-49,Property,Affluent Customer,No,16-19,VIC,3,2
+Mandie Jeffryes,Female,60-69,30-39,,High Net Worth,No,04-07,QLD,9,2
+Collete Dory,Female,60-69,30-39,,High Net Worth,No,00-03,NSW,9,2
+Leonid Dorricott,Male,40-49,18-29,,Affluent Customer,No,00-03,NSW,3,1
+Charlena Berney,Female,50-59,50-59,Manufacturing,High Net Worth,Yes,12-15,QLD,4,2
+Alfonso Massel,Male,70-79,60+,,Mass Customer,Yes,12-15,VIC,7,2
+Engracia Dobbs,Female,80-89,60+,Health,Mass Customer,No,12-15,NSW,8,5
+,Male,40-49,60+,Manufacturing,Affluent Customer,Yes,20-22,NSW,9,3
+Rosemonde Cartwight,Female,40-49,60+,Retail,Mass Customer,Yes,04-07,QLD,1,2
+Alano Satchel,Male,0-9,18-29,,Mass Customer,No,00-03,NSW,7,2
+Corrine Baribal,Female,10-19,60+,,Affluent Customer,Yes,12-15,NSW,8,3
+Benoit Harniman,Male,30-39,40-49,Telecommunications,Affluent Customer,No,08-11,QLD,7,2
+Jeanne Darte,Female,70-79,60+,,Mass Customer,Yes,08-11,NSW,7,3
+Jenelle Fearnill,Female,10-19,60+,Health,High Net Worth,No,16-19,NSW,9,4
+Tannie Gambrell,Male,90-99,50-59,Financial Services,Affluent Customer,No,04-07,QLD,4,2
+Mick Macewan,Male,30-39,50-59,Financial Services,Mass Customer,No,16-19,NSW,10,5
+Abbie Oldman,Male,80-89,30-39,Health,High Net Worth,Yes,04-07,NSW,8,4
+Tabbie Curner,Male,10-19,18-29,Retail,Mass Customer,No,04-07,VIC,6,2
+Shane Killen,Male,20-29,60+,Entertainment,High Net Worth,No,08-11,NSW,8,3
+Roberta Goodale,Female,0-9,60+,Property,Mass Customer,Yes,20-22,QLD,7,1
+Kippy Barabisch,Male,10-19,18-29,Manufacturing,Mass Customer,No,04-07,NSW,11,5
+Rosalinde Cubuzzi,Female,50-59,18-29,,Mass Customer,No,04-07,NSW,7,3
+Cami Barnbrook,Female,0-9,50-59,Health,Affluent Customer,Yes,16-19,QLD,2,2
+Dorian Stollen,Male,70-79,40-49,Financial Services,Mass Customer,Yes,16-19,NSW,11,6
+Hunfredo Hayball,Male,0-9,18-29,IT,Affluent Customer,No,00-03,NSW,8,2
+Giorgi O'Shirine,Male,60-69,30-39,Retail,Mass Customer,Yes,12-15,VIC,8,3
+Kort Disley,Male,60-69,40-49,Health,Mass Customer,Yes,04-07,NSW,9,6
+Gretna Thredder,Female,60-69,50-59,,Mass Customer,No,16-19,NSW,11,4
+Tobiah Heinsius,Male,60-69,18-29,Health,High Net Worth,No,08-11,NSW,8,4
+Wallace Newart,Male,90-99,40-49,IT,Mass Customer,No,16-19,QLD,1,3
+Hersh Stubbert,Male,0-9,18-29,Manufacturing,Mass Customer,Yes,12-15,QLD,8,4
+Hatti Carletti,U,30-39,60+,IT,Affluent Customer,Yes,08-11,NSW,9,3
+Wyn Saynor,Male,50-59,50-59,Financial Services,High Net Worth,No,08-11,NSW,9,4
+Maribeth Stivani,Female,40-49,60+,Financial Services,Mass Customer,No,04-07,NSW,8,5
+Abigale Sives,Female,40-49,50-59,Health,Affluent Customer,Yes,12-15,QLD,4,2
+Gothart Artus,Male,50-59,40-49,Health,Mass Customer,Yes,12-15,NSW,10,6
+Danny Bodle,Male,50-59,60+,Manufacturing,Mass Customer,Yes,16-19,NSW,9,5
+Vittorio Boxen,Male,90-99,50-59,,Mass Customer,No,12-15,NSW,9,4
+Deborah Petrovsky,Female,50-59,60+,Property,Mass Customer,No,16-19,NSW,7,3
+Agace Hedge,Female,20-29,18-29,,Mass Customer,Yes,12-15,VIC,8,3
+Rolland Esmead,Male,40-49,60+,Health,Affluent Customer,No,08-11,NSW,8,4
+Latrena Walklate,Female,90-99,60+,Telecommunications,High Net Worth,Yes,12-15,NSW,8,3
+Mariquilla Springthorpe,Female,30-39,60+,,Mass Customer,Yes,08-11,NSW,10,4
+Leticia Danovich,Female,80-89,60+,Entertainment,Mass Customer,Yes,12-15,QLD,1,2
+Harman Lynds,Male,0-9,50-59,,Mass Customer,Yes,04-07,QLD,8,3
+Farra Matyushkin,Female,10-19,40-49,Manufacturing,High Net Worth,Yes,08-11,VIC,9,4
+Robenia Monks,Female,90-99,60+,Manufacturing,Mass Customer,No,04-07,QLD,9,4
+Roman Eastwood,Male,50-59,50-59,Manufacturing,Affluent Customer,Yes,16-19,VIC,4,2
+Solomon Bruck,Male,20-29,60+,Health,Mass Customer,No,12-15,QLD,8,4
+Krystyna Airey,Female,0-9,60+,,Mass Customer,Yes,16-19,QLD,5,2
+Katharine Redbourn,Female,0-9,50-59,Manufacturing,Affluent Customer,Yes,04-07,VIC,10,3
+Cammy Stoneham,Female,70-79,50-59,Financial Services,High Net Worth,No,12-15,QLD,3,2
+Ellsworth Andrieux,Male,40-49,40-49,Financial Services,Affluent Customer,Yes,08-11,QLD,7,3
+Federico Leuty,Male,50-59,40-49,Property,High Net Worth,Yes,08-11,NSW,4,3
+Ferdy Hornung,Male,50-59,40-49,Entertainment,High Net Worth,No,16-19,QLD,3,2
+Sunny Christescu,Female,90-99,40-49,Financial Services,Mass Customer,No,08-11,NSW,10,6
+Shadow Yakutin,Male,80-89,50-59,Health,Affluent Customer,Yes,04-07,QLD,2,2
+Sharai Priddie,Female,10-19,50-59,Retail,Mass Customer,No,08-11,NSW,9,4
+Celeste Fretson,Female,90-99,40-49,IT,Mass Customer,No,08-11,NSW,9,5
+Lea Ilyinski,Female,70-79,18-29,Financial Services,High Net Worth,No,12-15,NSW,12,3
+Dyann Olechnowicz,Female,10-19,60+,Manufacturing,Mass Customer,No,16-19,VIC,10,4
+Delly Sunman,Female,40-49,60+,Retail,Mass Customer,No,12-15,VIC,12,2
+Malvin Ryhorovich,Male,30-39,50-59,,Mass Customer,No,04-07,QLD,3,2
+Tanya Hamberston,Female,40-49,18-29,,Mass Customer,Yes,08-11,QLD,6,2
+Kaela Romaines,Female,40-49,40-49,Manufacturing,High Net Worth,No,16-19,NSW,10,5
+Evonne Bembridge,Female,0-9,50-59,Retail,Mass Customer,Yes,12-15,VIC,9,3
+Shannen Lewin,Female,20-29,18-29,Argiculture,High Net Worth,No,04-07,QLD,6,1
+Bogey Attew,Male,80-89,18-29,IT,Mass Customer,Yes,08-11,QLD,9,3
+Zondra Ringham,Female,30-39,60+,Financial Services,Mass Customer,Yes,04-07,QLD,5,3
+Barnebas Apfel,Male,50-59,18-29,Manufacturing,Affluent Customer,Yes,00-03,QLD,6,1
+Alleen Eaken,Female,50-59,60+,,Mass Customer,No,08-11,NSW,12,3
+Gerri Schimann,Female,80-89,50-59,Property,Mass Customer,Yes,16-19,NSW,8,4
+Antonietta Egle,Female,80-89,40-49,Financial Services,Mass Customer,No,04-07,VIC,7,4
+Raff Waycott,Male,70-79,60+,Manufacturing,Affluent Customer,Yes,12-15,VIC,7,2
+Lark Gonet,Female,80-89,40-49,Health,High Net Worth,No,08-11,NSW,8,5
+Cletis Longley,Male,80-89,18-29,Manufacturing,High Net Worth,Yes,00-03,VIC,7,1
+Bartram Di Lucia,Male,70-79,50-59,Argiculture,Mass Customer,Yes,04-07,NSW,3,3
+Theresa Cowper,Female,90-99,40-49,Manufacturing,Mass Customer,No,00-03,NSW,10,5
+Philbert Raraty,Male,40-49,60+,Manufacturing,Mass Customer,No,04-07,NSW,9,5
+Egon Ortells,Male,30-39,40-49,Manufacturing,Affluent Customer,No,12-15,NSW,9,5
+Dahlia Shovlar,Female,90-99,50-59,,Affluent Customer,Yes,04-07,VIC,3,1
+Timi Duny,Female,70-79,60+,Telecommunications,High Net Worth,No,04-07,NSW,12,2
+Dominick Asher,Male,50-59,50-59,Health,Affluent Customer,Yes,04-07,VIC,9,3
+Raye Roo,Female,60-69,40-49,Financial Services,Mass Customer,Yes,16-19,VIC,9,5
+Becka Hacon,Female,80-89,50-59,Financial Services,Affluent Customer,No,16-19,VIC,9,3
+Cirillo Frossell,Male,0-9,50-59,,Mass Customer,No,04-07,NSW,12,3
+Verla Dumingos,Female,20-29,40-49,Telecommunications,Mass Customer,Yes,08-11,VIC,8,4
+Sherrie Godleman,Female,30-39,40-49,Manufacturing,Mass Customer,No,16-19,VIC,2,4
+Dexter Shutle,Male,80-89,60+,,Mass Customer,No,16-19,QLD,7,2
+Konstanze Hovie,Female,80-89,50-59,Health,Mass Customer,No,08-11,QLD,7,3
+Bink Bentje,Male,0-9,60+,Financial Services,High Net Worth,Yes,16-19,NSW,3,3
+Taber Szymon,Male,70-79,60+,Argiculture,Affluent Customer,No,12-15,QLD,8,2
+Debbi Dannatt,Female,0-9,60+,,Affluent Customer,No,04-07,QLD,10,2
+Giana Staresmeare,Female,90-99,40-49,Retail,Affluent Customer,Yes,08-11,NSW,7,3
+Morton Petkens,Male,50-59,30-39,Manufacturing,High Net Worth,Yes,08-11,VIC,1,2
+Vittoria Whitney,Female,90-99,30-39,,High Net Worth,No,12-15,NSW,11,3
+Paquito Atwood,Male,10-19,40-49,Manufacturing,Affluent Customer,No,08-11,VIC,8,4
+Dimitri Tribbeck,Male,80-89,60+,,Affluent Customer,No,20-22,VIC,6,0
+Shelli Bartholomaus,Female,80-89,50-59,Health,Mass Customer,Yes,04-07,VIC,7,3
+Kermit Lebond,Male,30-39,40-49,Financial Services,Mass Customer,No,04-07,QLD,8,5
+Biddie Gorce,Female,60-69,30-39,Financial Services,Mass Customer,Yes,04-07,NSW,7,4
+Rupert Marrow,Male,70-79,50-59,Property,High Net Worth,No,16-19,NSW,8,3
+Geoff Sitford,Male,90-99,50-59,Financial Services,Mass Customer,Yes,04-07,NSW,8,5
+Ange Chitham,Female,90-99,18-29,Argiculture,Mass Customer,No,08-11,NSW,8,4
+Tiphanie Blackader,Female,50-59,60+,Retail,Mass Customer,No,16-19,NSW,11,4
+Zollie Crinidge,Male,30-39,30-39,Retail,Mass Customer,Yes,08-11,QLD,5,2
+Daisy Pollen,Female,90-99,18-29,Financial Services,Mass Customer,No,04-07,VIC,9,4
+Emelen Bidnall,Male,70-79,30-39,Health,Affluent Customer,Yes,08-11,NSW,12,3
+Linette Boman,Female,50-59,60+,,Affluent Customer,No,08-11,NSW,11,3
+Manya Abramovici,Female,40-49,60+,Financial Services,High Net Worth,Yes,12-15,QLD,8,3
+Brynna Tivers,Female,80-89,40-49,Financial Services,Mass Customer,No,04-07,QLD,7,4
+Art Carolan,Male,0-9,60+,,Affluent Customer,Yes,08-11,NSW,9,3
+Alfi Sabbins,Female,60-69,60+,Financial Services,High Net Worth,Yes,16-19,NSW,3,3
+Loleta Aberdalgy,Female,40-49,30-39,Health,Mass Customer,No,08-11,NSW,6,4
+Aldric Birney,Male,20-29,40-49,Manufacturing,Mass Customer,Yes,12-15,NSW,6,5
+Natividad Balducci,Female,30-39,18-29,Property,High Net Worth,Yes,08-11,VIC,11,2
+Claudine Dymick,Female,20-29,50-59,Health,Mass Customer,No,04-07,VIC,5,3
+Seamus Cains,Male,60-69,30-39,Manufacturing,High Net Worth,No,04-07,NSW,8,4
+Guss Karim,Male,90-99,50-59,Manufacturing,Mass Customer,No,04-07,NSW,11,5
+Julietta Setchfield,Female,70-79,18-29,,High Net Worth,Yes,00-03,QLD,8,1
+Roch Symson,Female,90-99,40-49,Manufacturing,High Net Worth,No,16-19,VIC,9,4
+Audry Fann,Female,0-9,60+,Health,Mass Customer,Yes,12-15,VIC,6,3
+Cecelia Cisar,Female,20-29,30-39,Property,Mass Customer,Yes,12-15,QLD,7,2
+Clari Voas,Female,70-79,60+,Health,Affluent Customer,Yes,12-15,NSW,8,4
+Zach Hedman,Male,80-89,30-39,Financial Services,Affluent Customer,Yes,04-07,NSW,9,4
+Paxon Roomes,Male,70-79,40-49,,High Net Worth,Yes,04-07,VIC,7,2
+Parnell Lamprey,Male,20-29,40-49,Financial Services,High Net Worth,No,12-15,NSW,6,4
+Honey Gosdin,Female,0-9,30-39,Property,Mass Customer,No,16-19,NSW,9,4
+Sonny McCart,Male,30-39,18-29,Manufacturing,High Net Worth,No,08-11,VIC,9,3
+Rozamond Turtle,U,60-69,60+,IT,Mass Customer,Yes,00-03,VIC,3,1
+Deirdre Burgoine,Female,10-19,60+,Health,High Net Worth,No,04-07,VIC,1,2
+,Female,10-19,60+,Financial Services,Mass Customer,Yes,16-19,QLD,4,3
+Aldridge Poskitt,Male,80-89,30-39,,Mass Customer,No,12-15,QLD,5,2
+Zechariah McReidy,Male,30-39,40-49,Manufacturing,High Net Worth,No,20-22,QLD,6,2
+Carry Costi,Female,30-39,40-49,Property,Mass Customer,No,08-11,NSW,4,4
+,Male,10-19,18-29,,Affluent Customer,No,08-11,QLD,3,1
+Ahmed Pickthorne,Male,40-49,60+,,High Net Worth,Yes,12-15,NSW,9,3
+Nil Shirer,Male,60-69,18-29,Entertainment,Mass Customer,Yes,04-07,VIC,8,3
+Erhard O'Moylane,Male,30-39,40-49,Retail,Affluent Customer,Yes,08-11,VIC,2,2
+Vitia Axtens,Female,60-69,60+,Financial Services,Mass Customer,Yes,12-15,NSW,10,5
+Haskell Moxted,Male,80-89,60+,Manufacturing,Mass Customer,No,04-07,NSW,9,5
+Ebony Conrad,Female,0-9,18-29,Financial Services,Mass Customer,Yes,16-19,VIC,7,3
+Lincoln Boler,Male,50-59,40-49,,Affluent Customer,No,12-15,VIC,8,3
+Vladimir Westmerland,Male,10-19,60+,Manufacturing,Mass Customer,Yes,16-19,NSW,4,4
+Kylynn Drowsfield,Female,80-89,40-49,,High Net Worth,Yes,04-07,VIC,9,3
+Nicole Ruckhard,Female,90-99,50-59,Health,Affluent Customer,Yes,16-19,QLD,3,2
+Celestina Lethardy,Female,30-39,50-59,IT,Mass Customer,Yes,08-11,VIC,10,3
+Tannie Petrakov,Male,80-89,60+,IT,Affluent Customer,No,08-11,QLD,6,1
+Bessy Saladin,Female,20-29,60+,Manufacturing,Mass Customer,Yes,16-19,QLD,10,4
+Diego Van den Broek,Male,10-19,50-59,Manufacturing,Affluent Customer,Yes,12-15,QLD,7,2
+Lucilia Minshall,Female,70-79,60+,IT,Mass Customer,Yes,04-07,NSW,8,4
+Cissiee Pollington,Female,40-49,60+,Property,Mass Customer,Yes,04-07,NSW,9,4
+Eddy Sturch,Male,20-29,50-59,Financial Services,High Net Worth,Yes,16-19,QLD,6,2
+Caron Kezar,Female,10-19,60+,Health,Mass Customer,No,04-07,NSW,1,4
+Sandor Stirland,Male,60-69,30-39,Manufacturing,High Net Worth,No,12-15,VIC,10,3
+Gallagher Bromell,Male,10-19,60+,,Mass Customer,No,16-19,QLD,8,3
+Murial Bulloch,Female,50-59,50-59,Financial Services,Mass Customer,No,12-15,NSW,6,4
+Delinda Ech,Female,70-79,60+,Argiculture,Mass Customer,Yes,16-19,VIC,10,3
+Hussein Tapenden,Male,10-19,60+,Health,Affluent Customer,Yes,12-15,NSW,8,4
+Giulietta Garbott,Female,50-59,18-29,,Affluent Customer,Yes,12-15,VIC,5,1
+Kaylyn Jakaway,Female,40-49,40-49,Health,Affluent Customer,No,08-11,NSW,8,5
+Brynn Goodyear,Female,30-39,60+,Health,Mass Customer,Yes,08-11,VIC,7,3
+,Male,50-59,40-49,Manufacturing,Affluent Customer,No,12-15,NSW,11,5
+Tamas Swatman,U,60-69,60+,Entertainment,Affluent Customer,No,04-07,QLD,8,2
+Pace Clemonts,Male,90-99,30-39,Retail,High Net Worth,No,08-11,VIC,7,1
+Tracy Andrejevic,U,70-79,60+,IT,Mass Customer,Yes,08-11,VIC,7,2
+Muffin Grigolon,Male,0-9,40-49,Telecommunications,Mass Customer,No,12-15,NSW,10,5
+Allsun Biner,Female,60-69,18-29,Financial Services,Mass Customer,Yes,08-11,NSW,2,4
+Kenneth Elleyne,Male,10-19,60+,Financial Services,Mass Customer,No,12-15,VIC,11,4
+Clotilda Southers,Female,60-69,18-29,Financial Services,Mass Customer,Yes,12-15,NSW,4,4
+Augustus Bourley,Male,60-69,30-39,Health,Affluent Customer,No,16-19,QLD,10,3
+Daisi Tinwell,Female,80-89,40-49,Financial Services,Mass Customer,No,08-11,NSW,8,6
+Gerik Woodroof,Male,10-19,60+,Financial Services,High Net Worth,Yes,08-11,VIC,7,2
+Claresta MacConnulty,Female,0-9,60+,,Mass Customer,Yes,20-22,NSW,9,3
+Arty Fontelles,Male,50-59,18-29,IT,High Net Worth,No,04-07,VIC,4,1
+Giulia Hazart,Female,50-59,40-49,,Mass Customer,No,08-11,QLD,11,4
+Whit Emloch,Male,30-39,50-59,Health,Mass Customer,Yes,04-07,NSW,9,5
+Rowan Summerly,Male,0-9,40-49,Entertainment,Mass Customer,No,08-11,NSW,10,5
+Ian Rabat,Male,50-59,40-49,Financial Services,Affluent Customer,No,08-11,VIC,11,4
+Agneta McAmish,U,60-69,60+,IT,Mass Customer,No,12-15,QLD,6,2
+Reginald Jermy,Male,0-9,60+,,High Net Worth,Yes,20-22,QLD,8,1
+Link Gorini,Male,60-69,40-49,IT,High Net Worth,No,08-11,QLD,2,2
+Harriet Brattan,Female,80-89,30-39,Financial Services,High Net Worth,No,00-03,VIC,1,1
+Sada Branton,Female,30-39,40-49,Manufacturing,Affluent Customer,No,12-15,VIC,6,3
+Jenelle Mc-Kerley,Female,40-49,60+,Financial Services,Mass Customer,Yes,16-19,QLD,5,3
+Gabrila Toopin,Female,0-9,50-59,Manufacturing,Mass Customer,No,12-15,NSW,6,4
+Almira Mangion,Female,0-9,18-29,Financial Services,Affluent Customer,Yes,00-03,NSW,12,2
+Arty Strudwick,Male,80-89,50-59,Health,Mass Customer,Yes,08-11,NSW,10,5
+Alexa Dillet,Female,60-69,60+,Entertainment,Affluent Customer,No,16-19,NSW,7,2
+Palmer Heaven,Male,80-89,18-29,Financial Services,Affluent Customer,Yes,08-11,VIC,6,2
+Porter Buckenhill,Male,40-49,60+,Manufacturing,High Net Worth,Yes,08-11,QLD,7,2
+Kizzee Kemston,Female,10-19,50-59,Health,Mass Customer,No,12-15,NSW,8,5
+Isadora Ducker,Female,10-19,40-49,,Affluent Customer,Yes,08-11,VIC,5,2
+Giffie Offill,Male,50-59,18-29,Telecommunications,Affluent Customer,No,04-07,QLD,3,1
+Fara Sarath,Female,70-79,60+,,Mass Customer,No,20-22,NSW,7,2
+Carolann Raatz,Female,20-29,40-49,,High Net Worth,No,20-22,VIC,6,1
+Tamar Windmill,Female,90-99,60+,Manufacturing,Affluent Customer,No,08-11,NSW,10,4
+Kipp Stockport,Male,30-39,30-39,Retail,Mass Customer,Yes,04-07,NSW,11,4
+Packston Wackett,Male,10-19,60+,Financial Services,Mass Customer,No,16-19,VIC,9,4
+Hanson Eastes,Male,70-79,30-39,Manufacturing,Mass Customer,Yes,04-07,VIC,9,4
+Demetria Bausor,Female,70-79,50-59,Entertainment,Mass Customer,Yes,08-11,NSW,12,3
+Lura Fawdrie,Female,60-69,18-29,Health,Mass Customer,Yes,04-07,QLD,3,3
+Nora Anselm,Female,80-89,50-59,Entertainment,High Net Worth,Yes,12-15,QLD,5,1
+Estevan Eastment,Male,50-59,60+,Health,Mass Customer,Yes,20-22,NSW,8,4
+Aloysius Glowacz,Male,70-79,40-49,Financial Services,Affluent Customer,No,16-19,NSW,10,5
+Bastien Ibbeson,Male,50-59,40-49,IT,Mass Customer,No,12-15,NSW,5,4
+Otha Langworthy,Female,90-99,50-59,Financial Services,Mass Customer,Yes,12-15,VIC,10,4
+Gannie Bargh,Male,50-59,60+,,Mass Customer,Yes,12-15,VIC,7,2
+Dwayne Doel,Male,80-89,40-49,Financial Services,Affluent Customer,Yes,16-19,NSW,11,5
+Leese Huckleby,Female,60-69,40-49,Manufacturing,High Net Worth,Yes,16-19,VIC,7,3
+Dodi Kiggel,Female,0-9,40-49,Financial Services,Mass Customer,Yes,12-15,NSW,11,6
+Kippar Brimilcome,Male,20-29,60+,Health,Mass Customer,No,16-19,NSW,11,5
+Corinna Beretta,Female,20-29,18-29,Health,High Net Worth,No,12-15,VIC,7,2
+Laurie Odlin,Female,70-79,30-39,Health,High Net Worth,No,08-11,VIC,10,3
+Mair Erett,Female,10-19,60+,,Affluent Customer,No,16-19,NSW,7,2
+Marcelia Copins,Female,80-89,60+,,Mass Customer,Yes,20-22,NSW,8,3
+Tanner Terlinden,Male,80-89,18-29,Manufacturing,Mass Customer,No,12-15,VIC,11,4
+Hilliard Dullard,Male,60-69,60+,Manufacturing,Mass Customer,No,16-19,NSW,8,5
+Justinn Haruard,Female,40-49,60+,Health,High Net Worth,No,08-11,NSW,12,3
+Wyn Meach,Male,30-39,60+,Manufacturing,Mass Customer,No,08-11,NSW,9,5
+Art Shardlow,Male,50-59,50-59,Argiculture,Mass Customer,Yes,12-15,QLD,2,2
+Dennis Varnham,Male,50-59,60+,Entertainment,Affluent Customer,No,16-19,VIC,3,1
+Freddi Litherborough,Female,40-49,30-39,Financial Services,Mass Customer,No,04-07,NSW,3,4
+Salomon Perkins,Male,70-79,18-29,Financial Services,Affluent Customer,Yes,00-03,NSW,10,3
+,Female,30-39,18-29,Financial Services,Mass Customer,No,00-03,NSW,1,3
+Queenie Learie,Female,90-99,60+,Property,Mass Customer,No,12-15,NSW,11,4
+Etan Prinett,Male,90-99,50-59,Argiculture,Mass Customer,Yes,08-11,NSW,8,4
+Donaugh Benedict,Male,0-9,18-29,Property,Mass Customer,No,12-15,NSW,9,4
+Harwell Kleinstein,Male,80-89,18-29,Retail,Affluent Customer,No,12-15,VIC,5,1
+Cheston Hritzko,Male,70-79,60+,Manufacturing,Mass Customer,Yes,16-19,NSW,9,5
+Suzy Trounson,Female,10-19,60+,Financial Services,Mass Customer,Yes,20-22,QLD,9,3
+Jobie Runacres,Female,90-99,40-49,,Mass Customer,Yes,16-19,NSW,7,4
+Guenna Filisov,Female,50-59,50-59,Manufacturing,High Net Worth,No,12-15,NSW,9,4
+Opal Cleare,Female,0-9,40-49,Property,Affluent Customer,Yes,20-22,NSW,9,3
+Ottilie Wanless,Female,50-59,60+,,Affluent Customer,No,08-11,NSW,4,2
+Kipper Circuit,Male,20-29,40-49,Argiculture,Mass Customer,Yes,04-07,NSW,8,5
+Marilin Frome,Female,50-59,40-49,IT,Mass Customer,Yes,16-19,NSW,9,5
+Arel Abramovitz,Male,70-79,60+,Health,Mass Customer,No,16-19,QLD,4,3
+Kit Easdon,Male,60-69,40-49,Property,Affluent Customer,No,12-15,VIC,8,3
+Gregg Aimeric,U,50-59,60+,IT,Mass Customer,No,04-07,VIC,5,2
+Skipp Swales,Male,10-19,40-49,Entertainment,High Net Worth,Yes,20-22,VIC,7,1
+Frederich Glantz,Male,30-39,18-29,Manufacturing,High Net Worth,Yes,08-11,NSW,8,4
+Rodolph Denniss,Male,20-29,40-49,Property,Affluent Customer,Yes,04-07,VIC,2,2
+Craggie Dering,Male,40-49,60+,Financial Services,Mass Customer,No,04-07,NSW,10,5
+Johna Bunker,U,90-99,60+,IT,Mass Customer,Yes,12-15,VIC,6,2
+Giralda MacPeake,Female,50-59,60+,Entertainment,High Net Worth,Yes,12-15,NSW,1,2
+Rodney Trethewey,Male,10-19,18-29,Financial Services,Affluent Customer,No,12-15,VIC,8,3
+,Female,30-39,30-39,Argiculture,Mass Customer,Yes,12-15,NSW,2,3
+Gleda Howerd,Female,50-59,50-59,IT,Mass Customer,No,04-07,NSW,2,3
+Melany Ladewig,Female,70-79,40-49,Financial Services,Mass Customer,Yes,08-11,QLD,7,4
+Claudell Rounsefell,Male,60-69,18-29,Financial Services,Affluent Customer,No,08-11,QLD,5,2
+Garwin Nurden,Male,50-59,60+,Property,High Net Worth,Yes,04-07,VIC,11,2
+Bunny Leebetter,Female,80-89,50-59,Manufacturing,High Net Worth,Yes,08-11,QLD,4,2
+Matias Melloi,Male,60-69,40-49,Retail,Affluent Customer,No,08-11,NSW,10,4
+Sada Dowyer,Female,40-49,18-29,,High Net Worth,Yes,00-03,NSW,10,2
+Anet Roseman,Female,80-89,18-29,Financial Services,Mass Customer,No,08-11,VIC,4,3
+Katie Warhurst,Female,0-9,18-29,Retail,High Net Worth,Yes,12-15,VIC,5,1
+Celia Bryden,Female,10-19,60+,Manufacturing,High Net Worth,No,20-22,NSW,9,3
+Stearne Trolley,Male,40-49,30-39,Financial Services,High Net Worth,No,12-15,NSW,11,4
+Tristam Larose,Male,70-79,30-39,Financial Services,Mass Customer,No,16-19,NSW,11,5
+,Female,20-29,50-59,,High Net Worth,No,08-11,VIC,6,1
+Heloise Fairpool,Female,10-19,40-49,Manufacturing,High Net Worth,No,16-19,QLD,3,3
+Dory Malpass,Female,10-19,40-49,,Affluent Customer,Yes,12-15,QLD,8,3
+Marcellina Baynton,Female,60-69,60+,Financial Services,Mass Customer,No,16-19,VIC,10,4
+Gregorius Leal,Male,0-9,60+,Retail,Affluent Customer,Yes,20-22,NSW,12,1
+Deana Canton,Female,60-69,40-49,Property,Mass Customer,Yes,12-15,QLD,3,3
+Kori Sparsholt,Female,50-59,60+,,Mass Customer,Yes,16-19,NSW,9,4
+Lucky Klainman,Female,20-29,60+,Retail,Mass Customer,No,08-11,VIC,4,2
+Erasmus Olenchenko,Male,50-59,50-59,Property,Mass Customer,Yes,04-07,NSW,7,3
+Carita Sand,Female,20-29,40-49,Retail,Mass Customer,No,16-19,NSW,11,5
+Lynnett Tipper,Female,20-29,18-29,Health,High Net Worth,Yes,00-03,VIC,10,2
+Thorn Stigers,Male,40-49,40-49,Financial Services,Mass Customer,No,16-19,QLD,8,5
+Lela Billing,Female,30-39,50-59,,Mass Customer,Yes,16-19,NSW,7,3
+Norah Mapis,Female,70-79,18-29,Argiculture,Mass Customer,No,08-11,NSW,9,4
+Moina Rosenbaum,Female,50-59,18-29,IT,Mass Customer,No,12-15,VIC,10,3
+Ceciley Harg,Female,50-59,30-39,Retail,Mass Customer,Yes,04-07,QLD,7,2
+Torry de la Valette Parisot,Male,90-99,50-59,Telecommunications,Mass Customer,Yes,16-19,VIC,9,3
+Sigismund Sedger,Male,0-9,18-29,Manufacturing,Affluent Customer,No,04-07,NSW,10,4
+Irvine Headon,Male,90-99,60+,IT,Affluent Customer,Yes,20-22,NSW,5,1
+,Male,30-39,40-49,Entertainment,Mass Customer,Yes,12-15,NSW,10,5
+Tomkin Bernlin,Male,0-9,18-29,Health,Affluent Customer,Yes,08-11,NSW,3,3
+Genni Fanstone,Female,20-29,40-49,Entertainment,Mass Customer,No,16-19,VIC,10,4
+,Female,40-49,18-29,Financial Services,High Net Worth,No,08-11,NSW,8,4
+Aloysius Killingsworth,Male,80-89,60+,,Mass Customer,No,12-15,NSW,9,4
+Carola Philler,Female,70-79,60+,Health,High Net Worth,No,12-15,NSW,7,3
+Fitzgerald Hellikes,Male,20-29,40-49,Health,Mass Customer,Yes,08-11,VIC,7,4
+Ingmar Okenden,Male,90-99,60+,Financial Services,Mass Customer,Yes,08-11,VIC,2,3
+Tina Dunstan,Female,10-19,60+,Retail,Affluent Customer,No,12-15,NSW,7,2
+Huberto Mollatt,Male,80-89,50-59,,Mass Customer,Yes,12-15,NSW,7,3
+,Male,20-29,50-59,Manufacturing,High Net Worth,No,08-11,VIC,4,2
+Adolpho Bellerby,Male,40-49,60+,Financial Services,High Net Worth,Yes,12-15,QLD,4,2
+Kelsey Hatt,Female,60-69,50-59,Financial Services,High Net Worth,No,08-11,VIC,6,2
+,Male,80-89,50-59,Financial Services,High Net Worth,Yes,16-19,QLD,3,2
+Ariel McCloid,Male,0-9,18-29,,High Net Worth,Yes,04-07,VIC,1,1
+Bevvy Openshaw,Female,60-69,40-49,,Affluent Customer,Yes,08-11,NSW,3,3
+Alexina Mabley,Female,70-79,40-49,Manufacturing,Mass Customer,Yes,08-11,NSW,9,6
+Dawn Pyffe,Female,50-59,50-59,Retail,Mass Customer,No,08-11,VIC,8,3
+Claudette Renackowna,Female,50-59,18-29,Manufacturing,Mass Customer,No,00-03,NSW,8,4
+Elianora Poolton,Female,10-19,60+,,Mass Customer,Yes,20-22,VIC,9,2
+,Male,30-39,40-49,IT,Affluent Customer,No,12-15,QLD,7,2
+Anthony Lindstrom,Male,80-89,18-29,Financial Services,Affluent Customer,Yes,08-11,NSW,10,4
+Liane Poizer,Female,50-59,60+,Property,High Net Worth,No,12-15,NSW,11,3
+Romonda Hallt,Female,60-69,60+,,Affluent Customer,No,12-15,NSW,4,2
+Sula Thomann,Female,50-59,30-39,,Mass Customer,No,04-07,NSW,9,4
+Renell Earley,Female,0-9,60+,Financial Services,Mass Customer,Yes,08-11,QLD,5,3
+Cliff Philipsson,Male,80-89,50-59,Argiculture,Mass Customer,No,16-19,VIC,10,3
+Clevey Aisthorpe,Male,20-29,40-49,,Mass Customer,Yes,08-11,NSW,9,5
+,Female,10-19,40-49,Entertainment,Affluent Customer,Yes,16-19,NSW,7,3
+George Jose,Male,60-69,50-59,Retail,High Net Worth,Yes,20-22,QLD,4,0
+Kissiah Foat,Female,30-39,40-49,,Mass Customer,Yes,16-19,NSW,9,5
+Milty Brauninger,Male,10-19,60+,,High Net Worth,No,08-11,NSW,7,2
+Killian Nettles,Male,40-49,40-49,,Affluent Customer,No,04-07,VIC,7,2
+Fredia Favelle,Female,90-99,40-49,,Mass Customer,Yes,16-19,QLD,8,4
+Katleen Arnoult,Female,0-9,40-49,Manufacturing,Mass Customer,Yes,12-15,NSW,9,6
+Gaultiero Fibbens,Male,40-49,40-49,,Affluent Customer,No,08-11,NSW,11,4
+Inglebert Aspinal,Male,0-9,40-49,Financial Services,Mass Customer,No,08-11,NSW,8,6
+Jammal Devenny,Male,50-59,18-29,Retail,High Net Worth,No,12-15,VIC,9,2
+Adriane Richardson,Female,80-89,40-49,Manufacturing,High Net Worth,No,08-11,VIC,8,4
+Jodi Lermit,Female,90-99,60+,Health,Mass Customer,Yes,08-11,QLD,2,3
+Emelia Ackwood,Female,70-79,30-39,Financial Services,Mass Customer,Yes,08-11,QLD,9,4
+Andee Huke,Female,90-99,40-49,Manufacturing,Mass Customer,No,08-11,VIC,2,4
+Isa Fominov,Male,70-79,18-29,,Mass Customer,Yes,04-07,NSW,9,4
+Zabrina Margram,Female,80-89,50-59,Manufacturing,High Net Worth,Yes,08-11,QLD,8,3
+Maddalena Angood,Female,70-79,18-29,Manufacturing,Affluent Customer,No,12-15,NSW,4,3
+Sofie Worsfold,Female,80-89,60+,Retail,Mass Customer,Yes,08-11,QLD,6,2
+Elmira Vasilyev,Female,30-39,60+,Manufacturing,High Net Worth,No,12-15,NSW,9,4
+Free Rowland,Male,40-49,60+,,Mass Customer,Yes,12-15,VIC,8,3
+Worthington Cohane,Male,60-69,18-29,Entertainment,High Net Worth,No,00-03,NSW,12,1
+Bailey Bereford,Male,40-49,60+,Argiculture,Affluent Customer,Yes,08-11,NSW,6,2
+Perry Whitehurst,Male,70-79,40-49,Manufacturing,High Net Worth,Yes,08-11,VIC,7,3
+Antony Tuma,Male,10-19,60+,Telecommunications,High Net Worth,Yes,12-15,VIC,10,2
+Corene Hallgate,Female,20-29,50-59,Financial Services,Mass Customer,Yes,12-15,VIC,12,3
+Nico Chadwick,Male,90-99,60+,Financial Services,Affluent Customer,No,12-15,VIC,8,3
+Joline Skipperbottom,Female,50-59,40-49,,High Net Worth,No,08-11,NSW,9,4
+Ivy Farr,Female,50-59,40-49,IT,High Net Worth,No,16-19,NSW,11,4
+Dallas Lavalde,Female,10-19,18-29,,Mass Customer,No,12-15,NSW,4,3
+,Female,70-79,30-39,Financial Services,Mass Customer,Yes,08-11,NSW,6,4
+Hilario McCulloch,Male,60-69,30-39,Retail,Mass Customer,No,08-11,VIC,8,3
+Jim Haddrell,Male,50-59,60+,Financial Services,Mass Customer,No,08-11,NSW,3,4
+Jacobo Mucklow,Male,60-69,60+,Financial Services,High Net Worth,Yes,20-22,VIC,8,2
+Gretel Paschke,Female,10-19,60+,Financial Services,Mass Customer,Yes,16-19,QLD,7,3
+Jethro Mertel,Male,10-19,40-49,Argiculture,Mass Customer,Yes,12-15,NSW,6,4
+Dwain Hatch,Male,60-69,18-29,Health,Affluent Customer,No,12-15,VIC,8,3
+Lucretia D'Agostini,Female,40-49,40-49,Manufacturing,High Net Worth,No,12-15,VIC,7,3
+Claude Bowstead,Female,30-39,18-29,Manufacturing,Mass Customer,No,04-07,NSW,12,4
+Donn MacGregor,Male,80-89,50-59,Manufacturing,High Net Worth,No,04-07,NSW,10,4
+Laurel Devennie,Female,70-79,40-49,Manufacturing,Affluent Customer,No,12-15,QLD,5,3
+Elvira Darthe,Female,10-19,40-49,Financial Services,Affluent Customer,No,16-19,NSW,9,5
+Angie Tansley,Male,60-69,60+,Manufacturing,Mass Customer,No,08-11,NSW,7,4
+Terrence Dalligan,Male,60-69,18-29,Manufacturing,High Net Worth,Yes,00-03,VIC,6,1
+Katy Crooke,Female,0-9,40-49,Health,Mass Customer,No,12-15,NSW,12,5
+Sammy Borsi,Female,90-99,40-49,Financial Services,Mass Customer,No,04-07,NSW,7,5
+Morganica Ainsbury,Female,30-39,40-49,Entertainment,High Net Worth,Yes,08-11,NSW,10,4
+Nils Champion,Male,60-69,30-39,Retail,Affluent Customer,No,12-15,NSW,9,3
+Beverlee Querree,Female,40-49,18-29,Financial Services,High Net Worth,Yes,12-15,NSW,12,3
+Cami Eitter,Female,30-39,40-49,Manufacturing,High Net Worth,Yes,08-11,VIC,9,4
+Reiko Degenhardt,Female,80-89,40-49,Financial Services,High Net Worth,Yes,04-07,QLD,6,3
+Cord Dunsmore,Male,10-19,18-29,Manufacturing,Mass Customer,Yes,12-15,QLD,3,3
+Gabey Kennicott,Female,50-59,60+,Financial Services,Affluent Customer,No,16-19,NSW,6,3
+Jacqui Devey,Female,70-79,18-29,Financial Services,High Net Worth,Yes,12-15,NSW,8,4
+Byrom Ramas,Male,20-29,18-29,Manufacturing,High Net Worth,No,12-15,NSW,7,3
+Worthington Ahmed,Male,70-79,40-49,Financial Services,High Net Worth,No,12-15,VIC,3,3
+Chico Dye,Male,40-49,18-29,Manufacturing,High Net Worth,No,12-15,NSW,9,4
+Davidde Cockroft,Male,70-79,60+,Manufacturing,High Net Worth,No,08-11,NSW,12,3
+Charlie Dmych,Male,60-69,60+,Manufacturing,High Net Worth,No,12-15,NSW,6,3
+Donn Chaney,Male,10-19,60+,,Mass Customer,No,12-15,QLD,3,2
+Kamila Parsonage,Female,80-89,60+,Property,Mass Customer,No,04-07,QLD,8,3
+Barth Sapshed,Male,0-9,18-29,Financial Services,Mass Customer,Yes,12-15,QLD,10,4
+Padriac Collacombe,Male,60-69,50-59,Health,Affluent Customer,No,12-15,NSW,10,4
+Olive Mozzi,Female,80-89,60+,Retail,Affluent Customer,Yes,20-22,NSW,9,2
+Benedict Rosas,Male,70-79,60+,Financial Services,High Net Worth,Yes,12-15,NSW,6,3
+Virginia De Antoni,Female,10-19,50-59,Telecommunications,High Net Worth,Yes,12-15,NSW,10,3
+Nicolas O'Donnell,Male,40-49,30-39,,Mass Customer,Yes,12-15,VIC,7,2
+Oswald MacCarlich,Male,80-89,18-29,Entertainment,Mass Customer,No,12-15,QLD,1,2
+Ailyn Howgate,Female,60-69,18-29,Manufacturing,Mass Customer,Yes,00-03,QLD,7,2
+Karol Salthouse,Female,50-59,50-59,Financial Services,Mass Customer,Yes,16-19,NSW,8,5
+Esdras Birchett,Male,80-89,60+,Entertainment,Mass Customer,Yes,20-22,NSW,9,3
+Wilfrid Gertray,Male,0-9,60+,Financial Services,Mass Customer,No,16-19,NSW,8,5
+Charmain Styles,Female,40-49,50-59,Property,High Net Worth,Yes,16-19,VIC,7,1
+Harlene Nono,U,60-69,60+,IT,Mass Customer,No,12-15,NSW,7,3
+Kirsteni Gritskov,Female,60-69,18-29,,Mass Customer,No,04-07,NSW,7,3
+Bobby Summersby,Male,90-99,60+,Financial Services,Affluent Customer,No,04-07,VIC,2,2
+Shepherd Dutchburn,Male,30-39,40-49,Financial Services,High Net Worth,Yes,08-11,NSW,9,5
+Berenice Kaesmakers,Female,60-69,18-29,Retail,Mass Customer,No,08-11,NSW,9,4
+Jesse Crosio,Male,70-79,18-29,,Mass Customer,Yes,12-15,VIC,8,3
+Cordi Thornton,Female,40-49,40-49,Telecommunications,Mass Customer,No,08-11,NSW,10,5
+Debbie Tillman,Female,0-9,30-39,Manufacturing,High Net Worth,Yes,12-15,QLD,8,3
+Judie Pirkis,Female,0-9,18-29,,Affluent Customer,Yes,04-07,NSW,11,3
+Flin Yoskowitz,Male,0-9,18-29,Health,Mass Customer,Yes,08-11,NSW,7,4
+Noel Sturch,Female,20-29,60+,Health,Mass Customer,No,08-11,VIC,1,3
+Letizia Poore,Female,20-29,60+,Manufacturing,Affluent Customer,No,12-15,VIC,3,2
+,Male,30-39,18-29,Health,Affluent Customer,No,12-15,QLD,6,2
+Kiley Grunder,Male,90-99,18-29,Financial Services,Affluent Customer,Yes,00-03,QLD,8,2
+Ethelred Sissel,Male,80-89,40-49,Health,High Net Worth,No,16-19,NSW,8,5
+Dena Pabst,Female,30-39,30-39,Manufacturing,High Net Worth,Yes,16-19,VIC,7,2
+Wyndham Woolford,Male,0-9,40-49,Manufacturing,Mass Customer,No,08-11,VIC,6,4
+Rochette Haddacks,Female,40-49,18-29,Retail,Affluent Customer,Yes,12-15,VIC,8,2
+Jamal Dudgeon,Male,80-89,50-59,Financial Services,Mass Customer,No,04-07,VIC,5,3
+Levin Coxen,Male,10-19,60+,Property,Mass Customer,No,20-22,NSW,8,3
+Marinna Kauschke,Female,20-29,40-49,Financial Services,Affluent Customer,Yes,08-11,VIC,3,3
+Kyle Michie,Female,0-9,60+,,Mass Customer,Yes,08-11,VIC,8,3
+Lanie Cobbold,Male,50-59,40-49,,Mass Customer,Yes,08-11,NSW,5,4
+Gilbert O'Fallone,Male,20-29,18-29,Entertainment,High Net Worth,No,00-03,NSW,11,2
+Gerianne Kaysor,U,10-19,60+,IT,Affluent Customer,No,04-07,NSW,11,3
+Esther McOnie,Female,50-59,60+,,Mass Customer,No,12-15,NSW,12,3
+Chaim Kingdon,Male,60-69,18-29,Financial Services,Affluent Customer,Yes,12-15,NSW,9,4
+Anson Dearnaly,Male,60-69,18-29,Health,Affluent Customer,Yes,08-11,NSW,11,4
+Caitrin Critten,Female,40-49,40-49,Manufacturing,Mass Customer,Yes,08-11,QLD,7,4
+Garreth Minett,Male,90-99,50-59,,Affluent Customer,Yes,08-11,VIC,7,1
+Rozamond Sommer,Female,20-29,50-59,IT,Affluent Customer,Yes,12-15,VIC,10,2
+Annabell Downer,Female,30-39,60+,,Affluent Customer,No,20-22,NSW,9,2
+Maximilian Geffen,Male,90-99,60+,Manufacturing,Mass Customer,Yes,20-22,NSW,8,4
+Ajay Worham,Female,80-89,40-49,Manufacturing,Mass Customer,Yes,12-15,NSW,6,5
+Jamison Cashin,Male,70-79,50-59,Health,Mass Customer,Yes,04-07,NSW,8,5
+Dorian Emery,Female,90-99,18-29,Manufacturing,Mass Customer,Yes,08-11,NSW,8,5
+Nicol Swinford,Male,60-69,40-49,Property,High Net Worth,No,16-19,QLD,7,2
+Agna Cowpe,Female,80-89,50-59,Property,Mass Customer,Yes,04-07,QLD,3,2
+Nev Prosh,Male,20-29,60+,Health,Affluent Customer,Yes,16-19,NSW,8,4
+Lucius Hatchell,Male,30-39,60+,Retail,Mass Customer,Yes,12-15,VIC,8,3
+Francisca Pottage,Female,60-69,60+,IT,Mass Customer,No,08-11,NSW,9,4
+Farlie Brookz,Male,60-69,50-59,Health,Mass Customer,Yes,04-07,NSW,12,4
+,Female,40-49,60+,Property,Affluent Customer,Yes,16-19,NSW,11,3
+Beverlee Ungerechts,Female,40-49,40-49,Manufacturing,Mass Customer,No,08-11,QLD,7,4
+Nanni Girodias,Female,60-69,60+,Retail,High Net Worth,No,16-19,NSW,9,3
+Delcina Hursey,Female,20-29,50-59,Financial Services,Mass Customer,Yes,04-07,QLD,4,3
+Lek Pimblett,Male,80-89,60+,Financial Services,Mass Customer,Yes,04-07,NSW,2,4
+Kellyann Adshad,Female,60-69,60+,,Mass Customer,Yes,20-22,NSW,9,3
+Ewell Paulusch,Male,30-39,18-29,Manufacturing,Mass Customer,Yes,08-11,QLD,7,3
+Madison Lars,Male,10-19,50-59,Health,Mass Customer,No,16-19,QLD,9,4
+Ardis Taree,Female,90-99,60+,Manufacturing,Affluent Customer,Yes,04-07,QLD,9,3
+Wheeler Godsil,Male,50-59,18-29,Manufacturing,Affluent Customer,Yes,04-07,NSW,9,4
+Marissa O'Scandall,Female,10-19,40-49,,Affluent Customer,Yes,04-07,VIC,7,2
+Terrel Keynd,Male,30-39,50-59,Manufacturing,Mass Customer,No,08-11,QLD,7,3
+Augie Swallwell,Male,40-49,60+,Property,Affluent Customer,Yes,12-15,NSW,2,2
+Dillon Bannister,Male,0-9,60+,,Mass Customer,No,08-11,NSW,9,4
+Osbourn Gherardini,Male,40-49,30-39,,High Net Worth,Yes,16-19,NSW,7,2
+Lissa Gawn,Female,80-89,50-59,Health,Mass Customer,Yes,16-19,QLD,5,3
+Leisha McConway,Female,0-9,40-49,Financial Services,Mass Customer,Yes,12-15,VIC,8,5
+Kearney Cuddehy,Male,80-89,18-29,Retail,Mass Customer,No,12-15,QLD,6,2
+Shellysheldon Bichard,Male,90-99,60+,Financial Services,Mass Customer,Yes,16-19,QLD,5,3
+Reinhard Oscroft,Male,20-29,60+,Health,High Net Worth,No,16-19,VIC,1,2
+Menard Venmore,Male,90-99,40-49,Retail,High Net Worth,No,08-11,NSW,10,4
+Andree Breeds,Female,30-39,60+,Financial Services,Affluent Customer,Yes,08-11,VIC,6,2
+Kata Harrop,Female,70-79,60+,Retail,Affluent Customer,Yes,12-15,NSW,10,3
+Pierrette Gummie,Female,10-19,50-59,Retail,Affluent Customer,No,12-15,VIC,8,2
+Nady Withinshaw,Female,90-99,50-59,,High Net Worth,No,08-11,QLD,7,1
+Demott Mullaly,Male,40-49,30-39,Property,Mass Customer,No,12-15,NSW,8,4
+Wendye Kleinplatz,Female,40-49,18-29,Manufacturing,Affluent Customer,No,12-15,QLD,3,2
+Irvin Bevans,Male,80-89,50-59,Manufacturing,Mass Customer,No,12-15,NSW,11,5
+Madella Marquiss,Female,50-59,40-49,,Affluent Customer,No,16-19,VIC,8,3
+Austine Speedy,Female,30-39,60+,Argiculture,High Net Worth,Yes,12-15,NSW,8,3
+Wolf Craft,Male,90-99,18-29,Retail,Affluent Customer,Yes,04-07,NSW,9,3
+Aldin Newsome,Male,20-29,30-39,Financial Services,Mass Customer,No,16-19,NSW,9,5
+Sindee Jasik,Female,10-19,60+,Health,Mass Customer,Yes,12-15,QLD,9,4
+Truman Arlett,Male,50-59,60+,Manufacturing,High Net Worth,Yes,16-19,NSW,5,3
+Gordon Rewan,Male,40-49,30-39,,Mass Customer,No,04-07,NSW,8,4
+Israel Brough,Male,20-29,40-49,,Mass Customer,Yes,08-11,NSW,7,4
+Leticia Hovenden,Female,90-99,18-29,Retail,Mass Customer,Yes,00-03,VIC,9,2
+Caritta Compston,Female,80-89,60+,Manufacturing,Mass Customer,Yes,16-19,VIC,5,3
+Annabelle Hanwell,Female,10-19,60+,Manufacturing,High Net Worth,Yes,12-15,VIC,12,2
+Darryl Hovee,Female,0-9,60+,Financial Services,Mass Customer,Yes,16-19,NSW,12,4
+Orly Nesbitt,Female,0-9,30-39,Manufacturing,High Net Worth,Yes,12-15,VIC,6,2
+Margette Gibard,Female,30-39,60+,Manufacturing,Affluent Customer,Yes,08-11,NSW,7,3
+Nicol Bertot,Female,20-29,40-49,Financial Services,Affluent Customer,Yes,16-19,VIC,5,3
+Nobe Trowsdale,Male,10-19,50-59,Financial Services,Mass Customer,No,16-19,VIC,3,3
+Stephen Tittershill,Male,70-79,18-29,Financial Services,High Net Worth,No,04-07,VIC,11,3
+Giselbert Pickring,Male,90-99,60+,Manufacturing,Affluent Customer,Yes,20-22,NSW,8,3
+Shane Diss,Female,50-59,40-49,Financial Services,High Net Worth,Yes,16-19,VIC,8,4
+Lisette Davers,Female,50-59,60+,Health,High Net Worth,No,16-19,NSW,11,4
+Chicky Sinclar,U,40-49,60+,IT,High Net Worth,Yes,00-03,VIC,4,0
+Kippar Whyatt,Male,10-19,60+,Property,Mass Customer,No,08-11,NSW,7,3
+Xenia Maleck,Female,40-49,60+,Telecommunications,Mass Customer,No,12-15,VIC,7,2
+Essie Withur,Female,40-49,60+,Financial Services,High Net Worth,No,16-19,VIC,7,2
+Cecil Gant,Male,50-59,40-49,,High Net Worth,Yes,08-11,NSW,8,4
+Lillis Eshmade,Female,50-59,40-49,Financial Services,Mass Customer,Yes,20-22,QLD,2,3
+Ted Izacenko,Male,0-9,60+,Entertainment,High Net Worth,No,08-11,VIC,10,2
+Nixie Shoesmith,Female,40-49,60+,Retail,Affluent Customer,No,12-15,QLD,6,1
+Briana Trill,Female,0-9,60+,Health,High Net Worth,No,08-11,NSW,11,4
+Cobbie Bruyett,Male,20-29,60+,,Mass Customer,Yes,20-22,NSW,8,3
+Wrennie Dwelly,Female,20-29,60+,Manufacturing,Mass Customer,No,16-19,VIC,9,4
+Sibylla Kibble,Female,70-79,50-59,Health,High Net Worth,No,12-15,NSW,9,4
+Kariotta Naper,Female,0-9,60+,Health,Mass Customer,No,20-22,NSW,10,4
+Wylie Huntingdon,Male,90-99,50-59,Financial Services,Mass Customer,No,12-15,NSW,8,5
+Lizbeth Garvan,Female,30-39,18-29,Health,Mass Customer,No,04-07,NSW,9,5
+Averil Ackery,Male,90-99,50-59,Retail,Mass Customer,Yes,04-07,NSW,12,3
+Myrtie Ostrich,Female,70-79,18-29,Property,Affluent Customer,Yes,08-11,NSW,7,2
+Ross Vidgen,Male,10-19,60+,Retail,Affluent Customer,No,12-15,QLD,9,2
+Sibby Skinner,Female,20-29,30-39,Manufacturing,Mass Customer,Yes,12-15,QLD,7,3
+Selle Casper,Female,90-99,40-49,Health,Mass Customer,Yes,08-11,NSW,1,5
+Andrew Froment,Male,50-59,40-49,Retail,High Net Worth,No,04-07,VIC,2,2
+Maurizia Ritmeyer,Female,90-99,40-49,Entertainment,Mass Customer,Yes,00-03,NSW,6,3
+Keenan Moriarty,Male,60-69,18-29,Financial Services,Mass Customer,Yes,00-03,QLD,8,3
+Davide Senten,Male,20-29,60+,Manufacturing,Mass Customer,No,08-11,NSW,9,5
+Renie Fiveash,Female,90-99,18-29,Health,High Net Worth,No,16-19,QLD,4,2
+Willard Booton,Male,60-69,60+,Health,High Net Worth,Yes,04-07,NSW,9,4
+Debby Balmadier,Female,50-59,18-29,Financial Services,Affluent Customer,Yes,04-07,VIC,8,3
+Rockie MacKibbon,Male,40-49,40-49,,Mass Customer,Yes,12-15,NSW,8,5
+Harvey Dwelley,Male,70-79,40-49,Financial Services,Affluent Customer,No,16-19,NSW,9,5
+Patrice Pariss,Male,90-99,60+,Financial Services,Mass Customer,No,08-11,QLD,5,3
+Arman Yakubov,Male,60-69,40-49,Property,High Net Worth,Yes,16-19,NSW,4,3
+Gardiner Gypps,Male,90-99,18-29,Retail,Mass Customer,Yes,12-15,NSW,9,4
+Cathleen Le Teve,Female,70-79,60+,,High Net Worth,No,16-19,QLD,3,1
+Thaddus Joder,Male,30-39,60+,Manufacturing,Mass Customer,No,04-07,NSW,8,5
+Josepha Clamp,Female,10-19,50-59,,High Net Worth,No,12-15,NSW,12,2
+Jillane Simion,Female,0-9,40-49,Manufacturing,High Net Worth,No,04-07,QLD,3,3
+Lynnell Shoesmith,Female,40-49,30-39,Health,High Net Worth,Yes,04-07,NSW,8,4
+Mandie MacAdie,Female,30-39,40-49,Telecommunications,High Net Worth,No,12-15,NSW,11,4
+Ferdinand Billie,Male,90-99,50-59,Manufacturing,Mass Customer,No,04-07,NSW,8,5
+Suzy Bussens,Female,40-49,40-49,Financial Services,Mass Customer,No,12-15,QLD,9,5
+Emeline Vezey,Female,30-39,60+,Health,Affluent Customer,Yes,16-19,VIC,7,2
+Cissiee Baylis,Female,90-99,60+,Financial Services,High Net Worth,No,16-19,NSW,11,4
+Roldan Raybould,Male,20-29,40-49,Financial Services,Mass Customer,No,08-11,VIC,8,5
+Barth Weare,Male,10-19,60+,Health,Mass Customer,Yes,08-11,NSW,5,4
+Alta Pithcock,Female,60-69,18-29,Financial Services,Mass Customer,No,00-03,NSW,7,3
+Marc Keunemann,Male,50-59,40-49,Health,Affluent Customer,Yes,12-15,NSW,8,5
+Bertine Smalles,Female,80-89,30-39,Financial Services,Mass Customer,Yes,08-11,VIC,8,4
+Wilbert O'Loughnan,Male,10-19,30-39,Financial Services,Mass Customer,Yes,04-07,QLD,9,4
+Seymour Fellibrand,Male,20-29,40-49,,Affluent Customer,Yes,16-19,QLD,2,2
+Miran Runchman,Female,40-49,40-49,Retail,Mass Customer,No,16-19,QLD,3,3
+Dorotea Fenwick,Female,70-79,60+,Financial Services,High Net Worth,No,12-15,NSW,11,4
+Jenny Massy,Female,80-89,50-59,Telecommunications,Mass Customer,Yes,08-11,NSW,2,3
+Hyman Petrolli,Male,0-9,50-59,,Affluent Customer,Yes,04-07,VIC,7,1
+Beatrix McGivena,Female,20-29,50-59,Health,Mass Customer,Yes,08-11,QLD,10,4
+Nalani Hallad,Female,10-19,18-29,Health,Affluent Customer,Yes,08-11,VIC,9,3
+Inglebert Butland,Male,70-79,50-59,Financial Services,Mass Customer,Yes,04-07,NSW,9,5
+Brendis Pineaux,Male,10-19,40-49,Manufacturing,Mass Customer,No,04-07,NSW,4,5
+Jaimie Lancastle,Male,70-79,40-49,,Mass Customer,Yes,04-07,NSW,8,5
+Glendon Malham,Male,30-39,50-59,Manufacturing,Mass Customer,No,16-19,VIC,6,3
+Morganica Bentke,Female,40-49,40-49,IT,Affluent Customer,Yes,20-22,VIC,11,2
+Calida Schaben,Female,50-59,50-59,,Mass Customer,Yes,08-11,NSW,9,4
+Hallsy Voysey,Male,80-89,50-59,,Mass Customer,No,16-19,VIC,9,3
+Lanny Currall,Male,30-39,18-29,,High Net Worth,Yes,08-11,NSW,10,3
+Son Varney,Male,70-79,18-29,Property,Mass Customer,Yes,08-11,NSW,7,3
+Bartram Caltun,Male,20-29,60+,Health,Affluent Customer,Yes,12-15,NSW,11,4
+Halette Borsi,Female,60-69,50-59,Health,Affluent Customer,Yes,16-19,NSW,9,4
+Killie Densie,Male,80-89,18-29,IT,Mass Customer,Yes,08-11,NSW,10,4
+Mandi Adamsson,Female,40-49,18-29,Manufacturing,Mass Customer,Yes,04-07,QLD,5,3
+Kylila Basezzi,Female,90-99,60+,,Mass Customer,Yes,08-11,QLD,9,3
+Yardley Matten,Male,30-39,18-29,Financial Services,Mass Customer,No,12-15,QLD,2,3
+Shepperd Leonards,Male,10-19,30-39,Manufacturing,Mass Customer,Yes,04-07,NSW,9,5
+Hamel Curzey,Male,10-19,30-39,,Mass Customer,Yes,08-11,QLD,7,2
+Fancie Woofendell,Female,60-69,50-59,Health,Mass Customer,Yes,04-07,QLD,7,3
+Zebulen Emtage,Male,50-59,50-59,,High Net Worth,Yes,16-19,QLD,7,1
+Micheil Fleote,Male,40-49,40-49,Manufacturing,High Net Worth,No,16-19,NSW,9,5
+Cecily Faircley,Female,40-49,60+,IT,Affluent Customer,Yes,16-19,QLD,1,1
+Glory Chilcott,Female,40-49,60+,Telecommunications,High Net Worth,No,08-11,QLD,5,1
+Sinclair Wark,Male,60-69,40-49,Financial Services,Mass Customer,Yes,08-11,NSW,9,6
+Tomaso Horsley,Male,90-99,18-29,Financial Services,Mass Customer,Yes,08-11,VIC,6,3
+Gilli Christophers,Female,70-79,60+,Property,Affluent Customer,Yes,16-19,QLD,9,2
+Errick Burgin,Male,80-89,18-29,Entertainment,Mass Customer,No,08-11,NSW,2,3
+Damian Renard,Male,40-49,40-49,Retail,Affluent Customer,No,08-11,NSW,10,4
+Agnola Batterson,Female,80-89,40-49,Financial Services,Mass Customer,No,04-07,QLD,3,4
+Riki Wandtke,Female,20-29,50-59,Entertainment,Mass Customer,Yes,04-07,QLD,7,2
+Mikol Eck,Male,90-99,40-49,Financial Services,Mass Customer,Yes,20-22,QLD,9,4
+Phyllis Wibberley,Female,0-9,40-49,Retail,Affluent Customer,No,08-11,NSW,12,3
+Burt Vasechkin,Male,30-39,60+,Retail,Mass Customer,Yes,20-22,VIC,2,1
+Adriana Saundercock,U,20-29,60+,IT,High Net Worth,Yes,12-15,VIC,7,1
+Trudie Phinnessy,Female,40-49,60+,Financial Services,Mass Customer,Yes,12-15,VIC,9,4
+Frederigo Cribbott,Male,30-39,50-59,Health,Mass Customer,No,16-19,NSW,8,5
+Glenda Eliet,Female,80-89,40-49,,Mass Customer,No,12-15,VIC,7,3
+,Male,80-89,50-59,Health,Affluent Customer,No,08-11,QLD,5,2
+Cal Van den Velde,Male,20-29,18-29,Financial Services,Affluent Customer,Yes,04-07,VIC,6,2
+Stephani Sidsaff,Female,30-39,40-49,Financial Services,Mass Customer,Yes,04-07,NSW,11,6
+Meade Bampton,Male,60-69,30-39,Health,High Net Worth,No,16-19,NSW,7,3
+Flore Cashen,Female,70-79,40-49,Health,High Net Worth,No,16-19,NSW,4,4
+Leighton Firbanks,Male,50-59,40-49,Retail,Affluent Customer,No,20-22,QLD,3,1
+Petr Westman,Male,0-9,30-39,Property,Mass Customer,No,04-07,QLD,7,2
+Yorgos Dewhurst,Male,0-9,60+,Argiculture,Affluent Customer,No,16-19,QLD,1,1
+Simmonds Bapty,Male,50-59,18-29,Financial Services,Affluent Customer,No,08-11,NSW,12,3
+Hagen MacCarter,Male,90-99,30-39,Entertainment,Affluent Customer,Yes,12-15,VIC,9,2
+Cazzie Stanwix,Male,30-39,60+,Manufacturing,High Net Worth,Yes,08-11,QLD,7,2
+Geoff Gwillym,Male,80-89,18-29,Health,Affluent Customer,No,08-11,NSW,4,3
+,Female,0-9,30-39,Manufacturing,Affluent Customer,Yes,04-07,NSW,8,4
+Deirdre Sturgeon,Female,10-19,50-59,Retail,Mass Customer,Yes,08-11,NSW,10,4
+Andrea Pendle,Female,80-89,60+,,High Net Worth,Yes,12-15,QLD,6,1
+Juliann Siemantel,Female,80-89,60+,Entertainment,Mass Customer,No,20-22,VIC,8,2
+Janaye Eade,Female,20-29,30-39,Health,Affluent Customer,No,04-07,NSW,3,3
+Dylan Stranio,Male,40-49,60+,Manufacturing,High Net Worth,Yes,08-11,NSW,8,4
+Mel Rochford,Female,10-19,30-39,Retail,Mass Customer,Yes,04-07,VIC,9,3
+Elvin Trayhorn,Male,40-49,18-29,Financial Services,High Net Worth,No,08-11,NSW,10,4
+Dmitri Viant,U,60-69,60+,Financial Services,Affluent Customer,No,04-07,VIC,1,2
+Sonni Milligan,Female,70-79,30-39,Retail,Mass Customer,Yes,12-15,VIC,9,3
+Kellina Haygreen,Female,30-39,50-59,Entertainment,Affluent Customer,No,16-19,NSW,10,3
+Yuma Dennick,Male,40-49,40-49,Manufacturing,Mass Customer,Yes,04-07,NSW,8,6
+,Female,40-49,18-29,,Mass Customer,Yes,04-07,VIC,12,2
+Therese Brotherhood,Female,30-39,30-39,Health,Mass Customer,No,08-11,NSW,10,5
+Pansie Beccero,Female,30-39,50-59,Financial Services,Affluent Customer,Yes,08-11,QLD,5,2
+Reinaldos Simmig,Male,50-59,60+,Manufacturing,High Net Worth,No,08-11,VIC,10,3
+Calhoun Mussington,Male,90-99,18-29,Health,Mass Customer,No,12-15,NSW,9,5
+Winn Wells,Male,60-69,18-29,Manufacturing,Affluent Customer,No,08-11,NSW,10,4
+Rafi Brettelle,Male,80-89,60+,Health,High Net Worth,No,04-07,NSW,10,4
+,Female,40-49,60+,Health,High Net Worth,Yes,08-11,VIC,12,2
+Verne Loalday,Male,0-9,30-39,IT,High Net Worth,No,04-07,NSW,10,3
+Eleonora Wiszniewski,Female,40-49,40-49,Financial Services,Affluent Customer,No,08-11,QLD,2,3
+Fayre Brannigan,Female,30-39,18-29,Manufacturing,Mass Customer,Yes,08-11,NSW,10,5
+Eachelle Noirel,Female,90-99,40-49,Health,Affluent Customer,Yes,08-11,NSW,6,4
+Carl Troyes,Male,0-9,40-49,Property,Mass Customer,No,04-07,VIC,10,4
+Cordie Brankley,Female,70-79,60+,Entertainment,High Net Worth,No,16-19,NSW,6,2
+Jackie Pays,Male,20-29,60+,Health,Mass Customer,No,08-11,NSW,12,4
+Carroll Schlagman,Female,60-69,60+,Health,Affluent Customer,No,12-15,NSW,9,4
+Frans Idale,Male,0-9,50-59,Manufacturing,Mass Customer,No,08-11,QLD,2,3
+Amara Clow,Female,40-49,50-59,Financial Services,Mass Customer,Yes,12-15,VIC,12,3
+Anthony Morison,Male,0-9,60+,Health,Mass Customer,No,12-15,NSW,9,5
+Cherye Stanfield,Female,0-9,30-39,Manufacturing,Affluent Customer,No,12-15,NSW,9,4
+Ansell Tolhurst,Male,70-79,60+,Manufacturing,Affluent Customer,No,20-22,NSW,10,3
+Erminie Rabidge,Female,60-69,30-39,Manufacturing,High Net Worth,No,16-19,NSW,8,4
+Rosene Beckey,Female,20-29,40-49,Health,Mass Customer,Yes,12-15,NSW,11,6
+Darlleen Shalcras,Female,70-79,40-49,Health,Mass Customer,No,08-11,NSW,10,6
+Bryon Goundry,Male,70-79,60+,Manufacturing,Mass Customer,No,20-22,QLD,5,2
+Sherwin Minocchi,Male,70-79,60+,,Mass Customer,Yes,08-11,NSW,8,4
+Luci Dyter,Female,10-19,60+,Manufacturing,High Net Worth,No,20-22,VIC,7,1
+Sloan Pudney,Male,80-89,50-59,Financial Services,Affluent Customer,No,16-19,QLD,9,3
+Otes Elegood,Male,60-69,60+,Financial Services,High Net Worth,No,20-22,NSW,11,3
+Davie Blay,Male,90-99,30-39,Financial Services,Mass Customer,No,08-11,NSW,7,4
+Dorolice Osmon,Female,40-49,50-59,Financial Services,Affluent Customer,No,12-15,VIC,6,2
+Meade McReedy,Female,90-99,50-59,Financial Services,Affluent Customer,Yes,08-11,NSW,10,4
+Rikki Chaffey,Male,60-69,60+,Manufacturing,Mass Customer,No,20-22,QLD,1,2
+Adria Van den Velde,Female,30-39,40-49,Manufacturing,Affluent Customer,Yes,08-11,NSW,7,4
+,Male,70-79,18-29,Financial Services,High Net Worth,Yes,12-15,VIC,4,2
+Maddalena Hencke,Female,60-69,60+,,High Net Worth,No,20-22,QLD,5,0
+Rand Winchcum,Male,30-39,18-29,,Affluent Customer,No,00-03,NSW,7,1
+Rowen Sollas,Male,30-39,60+,Health,Mass Customer,No,04-07,QLD,8,4
+Boothe Hayselden,Male,40-49,60+,Health,Mass Customer,Yes,16-19,NSW,10,5
+Noak Sleany,Male,0-9,50-59,Financial Services,Affluent Customer,No,16-19,VIC,10,3
+Callean Wass,Male,60-69,30-39,Financial Services,Affluent Customer,No,12-15,VIC,8,3
+Keelby Sudlow,Male,90-99,30-39,Manufacturing,High Net Worth,No,12-15,VIC,8,3
+Rodrique Vernon,Male,70-79,40-49,Manufacturing,Affluent Customer,No,16-19,VIC,8,4
+Brod Attrey,Male,40-49,50-59,,Mass Customer,Yes,12-15,NSW,8,4
+Manny Mandy,Male,30-39,40-49,Argiculture,Mass Customer,No,16-19,QLD,7,3
+Becky Lassen,Female,10-19,40-49,Financial Services,Mass Customer,Yes,04-07,NSW,8,6
+Tessa Heakey,Female,40-49,40-49,Financial Services,Mass Customer,No,08-11,VIC,6,4
+Herbert Henryson,Male,20-29,18-29,,Mass Customer,No,04-07,NSW,9,4
+Cristie Bence,Female,40-49,18-29,,High Net Worth,No,08-11,QLD,8,2
+Renate Whyte,Female,60-69,50-59,Health,High Net Worth,Yes,12-15,NSW,7,3
+Toma Woolforde,Female,60-69,18-29,Financial Services,Mass Customer,Yes,04-07,NSW,12,4
+Dorie Dunleavy,Female,20-29,50-59,Health,Affluent Customer,No,12-15,VIC,4,2
+Ellie Toope,Female,20-29,40-49,Property,High Net Worth,Yes,04-07,NSW,11,4
+Leonora Swetenham,Female,60-69,50-59,IT,Mass Customer,Yes,08-11,NSW,10,4
+Teodor Mullinder,Male,50-59,50-59,Manufacturing,High Net Worth,No,08-11,VIC,5,2
+Jared Fendlow,Male,70-79,50-59,Financial Services,Mass Customer,No,12-15,QLD,7,3
+Porty Hansed,U,80-89,60+,IT,Mass Customer,No,12-15,NSW,11,4
+Andy Deeming,Male,70-79,40-49,Manufacturing,Affluent Customer,Yes,04-07,QLD,8,4
+Monty Thomazin,Male,0-9,60+,,Mass Customer,Yes,12-15,VIC,10,3
+Briano Janowski,Male,60-69,18-29,,Mass Customer,No,04-07,NSW,8,4
+,Male,90-99,60+,,Mass Customer,No,08-11,NSW,8,4
+Logan Colomb,Male,70-79,60+,,Mass Customer,Yes,16-19,NSW,8,4
+Nichols Devinn,Male,40-49,40-49,,Affluent Customer,No,08-11,NSW,12,3
+Catha Davitt,Female,70-79,60+,Property,High Net Worth,Yes,04-07,NSW,7,2
+Melosa McOwan,Female,20-29,18-29,Financial Services,Mass Customer,No,12-15,NSW,9,5
+Maris Leete,Female,20-29,40-49,Retail,Mass Customer,No,04-07,QLD,4,3
+Wilburt Padden,Male,20-29,18-29,Manufacturing,Mass Customer,No,00-03,NSW,5,3
+Rosabelle Godsmark,Female,60-69,18-29,,Mass Customer,Yes,00-03,QLD,8,2
+Guilbert Bearns,Male,40-49,30-39,Financial Services,Mass Customer,Yes,04-07,VIC,8,4
+Meridith Urwin,Female,60-69,18-29,Health,High Net Worth,Yes,08-11,NSW,7,3
+,Male,60-69,60+,Telecommunications,High Net Worth,No,12-15,QLD,4,1
+Gerta Porrett,Female,40-49,60+,Health,High Net Worth,No,12-15,VIC,2,2
+Karrah Howell,Female,60-69,60+,Manufacturing,Mass Customer,No,16-19,NSW,9,5
+Alick Baise,Male,60-69,18-29,Health,Mass Customer,Yes,00-03,NSW,8,4
+Casandra Betteridge,Female,20-29,60+,Financial Services,Affluent Customer,Yes,08-11,VIC,10,3
+Maurine Clee,Female,40-49,40-49,Property,High Net Worth,Yes,04-07,NSW,10,4
+Darwin Bumpas,Male,20-29,40-49,Health,Affluent Customer,Yes,16-19,VIC,7,3
+Hayes Daveren,Male,30-39,60+,Manufacturing,Affluent Customer,Yes,08-11,QLD,2,2
+Piper Issacov,Female,60-69,60+,Health,Affluent Customer,Yes,20-22,NSW,9,3
+Markus Pendrey,Male,80-89,60+,Health,Affluent Customer,Yes,12-15,NSW,10,4
+Sile Zappel,Female,40-49,60+,IT,High Net Worth,No,12-15,QLD,6,1
+Craggy Happel,Male,30-39,40-49,Manufacturing,High Net Worth,Yes,08-11,VIC,6,3
+Egor Mariette,Male,40-49,40-49,Financial Services,Affluent Customer,No,00-03,VIC,7,2
+Reinald Bembrigg,Male,50-59,60+,Financial Services,Affluent Customer,No,08-11,NSW,7,3
+Kissie Line,Female,0-9,18-29,Manufacturing,Affluent Customer,Yes,04-07,NSW,9,4
+Quentin Gerleit,Female,30-39,30-39,Manufacturing,Mass Customer,No,04-07,VIC,8,4
+Karoly Burgoine,Male,50-59,60+,Health,High Net Worth,Yes,20-22,VIC,2,1
+Clarine Piecha,Female,90-99,50-59,Health,High Net Worth,No,12-15,QLD,10,3
+Mycah Beaston,Male,10-19,50-59,,High Net Worth,Yes,12-15,NSW,11,3
+Clemmie Bartoszewicz,Female,80-89,60+,Financial Services,Mass Customer,No,08-11,VIC,9,4
+Randall Mason,Male,90-99,40-49,Health,Mass Customer,Yes,12-15,NSW,11,6
+Donica Humby,Female,40-49,50-59,Financial Services,Mass Customer,No,04-07,NSW,12,4
+Lotty Loach,Female,70-79,50-59,Health,High Net Worth,Yes,04-07,NSW,3,3
+Marie-jeanne Breawood,Female,30-39,60+,Health,High Net Worth,No,08-11,NSW,6,3
+Babara Sissel,Female,50-59,40-49,IT,Mass Customer,Yes,20-22,VIC,10,3
+Rodolphe Glenton,Male,80-89,40-49,Financial Services,Affluent Customer,No,08-11,VIC,7,3
+Thorvald Duckerin,Male,50-59,18-29,Manufacturing,Affluent Customer,Yes,00-03,VIC,8,2
+Paulina Iannuzzelli,Female,50-59,60+,Manufacturing,Mass Customer,No,16-19,NSW,11,5
+Ricki Padefield,Male,40-49,60+,Manufacturing,Affluent Customer,Yes,12-15,QLD,9,3
+Lizette McKeaveney,Female,30-39,18-29,Health,High Net Worth,Yes,12-15,NSW,10,4
+Muffin Bhar,Male,40-49,50-59,,Affluent Customer,No,16-19,NSW,4,2
+Jeno Strafford,Male,60-69,60+,Financial Services,High Net Worth,No,04-07,QLD,9,3
+Brigg Himsworth,Male,60-69,40-49,Telecommunications,Mass Customer,Yes,08-11,QLD,6,3
+Judi Cazereau,Female,20-29,18-29,,Affluent Customer,Yes,12-15,VIC,3,1
+Shara Bramhill,U,20-29,60+,IT,Affluent Customer,No,00-03,NSW,10,2
+Raleigh Pont,Male,40-49,50-59,Entertainment,Mass Customer,No,12-15,VIC,7,2
+Zachariah Meininking,Male,40-49,60+,Financial Services,Affluent Customer,Yes,20-22,NSW,7,2
+Lesley Garey,Male,50-59,18-29,Telecommunications,Mass Customer,No,08-11,NSW,9,4
+Adriena Giffin,Female,20-29,60+,Argiculture,Affluent Customer,Yes,04-07,NSW,9,3
+,Female,70-79,40-49,Financial Services,Affluent Customer,No,04-07,VIC,9,4
+Carr Hopkynson,Male,60-69,40-49,Manufacturing,Affluent Customer,No,16-19,NSW,6,4
+Shay Briand,Male,50-59,60+,IT,Mass Customer,Yes,08-11,VIC,1,2
+Karney Burstow,Male,50-59,40-49,Property,Mass Customer,Yes,04-07,NSW,12,4
+Latrena Yetts,Female,10-19,18-29,Manufacturing,High Net Worth,Yes,12-15,NSW,3,3
+Jesse Alflat,Male,30-39,30-39,,High Net Worth,No,04-07,NSW,9,3
+Kelcie Kingaby,Female,50-59,18-29,IT,Mass Customer,Yes,04-07,QLD,4,2
+Fabio Commuzzo,Male,0-9,50-59,Manufacturing,Mass Customer,No,16-19,VIC,8,4
+Heall Andrioli,Male,40-49,60+,IT,Affluent Customer,Yes,04-07,QLD,5,1
+Rickert Brasted,Male,40-49,60+,Health,Mass Customer,No,08-11,NSW,9,5
+Hedwig Jayme,Female,30-39,60+,Property,Affluent Customer,No,08-11,NSW,10,3
+Penrod Tomasicchio,Male,0-9,50-59,Health,High Net Worth,No,16-19,NSW,9,4
+Pancho Edis,Male,0-9,40-49,,Mass Customer,No,12-15,VIC,7,3
+Andriana Gosnoll,Female,50-59,50-59,Manufacturing,Mass Customer,No,08-11,NSW,10,5
+Nilson Wiggam,Male,40-49,18-29,Financial Services,Mass Customer,No,08-11,VIC,6,3
+Denny Spleving,Female,80-89,40-49,Manufacturing,Affluent Customer,Yes,04-07,NSW,8,5
+Roth Crum,U,0-9,60+,IT,Mass Customer,No,00-03,NSW,6,2
+Olia O' Mullan,Female,70-79,40-49,Health,Mass Customer,No,08-11,NSW,7,5
+Conway Juarez,Male,20-29,50-59,,Affluent Customer,No,16-19,QLD,5,1
+Dru Crellim,Female,50-59,50-59,,Mass Customer,No,12-15,VIC,7,2
+Shaw MacEvilly,Male,10-19,18-29,Health,Affluent Customer,No,16-19,NSW,9,4
+Brook Eade,Female,60-69,60+,Retail,Mass Customer,Yes,08-11,NSW,5,3
+Aleece Feige,Female,40-49,40-49,Manufacturing,Mass Customer,No,16-19,NSW,10,6
+Dolorita Strutton,Female,0-9,18-29,Manufacturing,Affluent Customer,No,16-19,VIC,8,3
+Harman A'field,Male,30-39,50-59,Manufacturing,Affluent Customer,Yes,04-07,QLD,5,2
+Hildegarde Bamb,Female,10-19,50-59,,High Net Worth,Yes,08-11,VIC,9,2
+Launce Gale,Male,80-89,60+,,Mass Customer,No,20-22,NSW,9,3
+Ilise Clissold,Female,50-59,30-39,Entertainment,High Net Worth,No,08-11,NSW,10,3
+Julita Prene,Female,10-19,40-49,Manufacturing,High Net Worth,Yes,12-15,QLD,2,3
+Ashlen Willbond,Female,60-69,30-39,Health,High Net Worth,No,16-19,VIC,8,3
+Keely Bointon,Female,70-79,30-39,Telecommunications,High Net Worth,No,00-03,QLD,9,1
+Poul Gaskin,Male,70-79,60+,Telecommunications,High Net Worth,No,16-19,NSW,2,2
+Sheilakathryn Huff,Female,40-49,60+,,High Net Worth,Yes,12-15,NSW,6,2
+Rubia Evetts,Female,50-59,18-29,Health,Mass Customer,No,16-19,NSW,9,5
+Francklin Cross,Male,50-59,30-39,Property,Mass Customer,Yes,00-03,NSW,10,3
+Wilone Champley,Female,20-29,30-39,Manufacturing,High Net Worth,No,16-19,NSW,10,4
+Lezlie Clemits,Female,0-9,40-49,Financial Services,Mass Customer,Yes,12-15,NSW,10,6
+Kathe Oller,Female,40-49,60+,Manufacturing,Mass Customer,Yes,04-07,VIC,4,3
+Dulce Bradwell,Female,60-69,60+,Manufacturing,Mass Customer,No,20-22,QLD,9,3
+Felice Dechelette,Male,70-79,18-29,Entertainment,High Net Worth,No,00-03,QLD,4,0
+Joane Caldes,Female,80-89,40-49,Financial Services,High Net Worth,Yes,12-15,NSW,7,4
+Diane Furman,Female,60-69,18-29,Manufacturing,Affluent Customer,Yes,12-15,VIC,9,3
+Ogdan Blenkinship,Male,60-69,60+,Health,Mass Customer,Yes,20-22,VIC,5,2
+Kizzee Agget,Female,90-99,40-49,Manufacturing,Affluent Customer,No,08-11,NSW,10,5
+Stephi Highton,Female,30-39,30-39,Telecommunications,Mass Customer,Yes,12-15,NSW,10,4
+Martino Scoles,Male,10-19,40-49,Financial Services,Mass Customer,No,12-15,VIC,4,4
+Morgen Newport,Female,0-9,60+,Manufacturing,Mass Customer,No,04-07,VIC,4,3
+Eugenie Brinson,Female,70-79,50-59,Entertainment,Mass Customer,Yes,16-19,VIC,6,2
+Reinold Natt,Male,10-19,50-59,Financial Services,High Net Worth,Yes,08-11,VIC,8,3
+Jo Roberts,Female,40-49,60+,Financial Services,High Net Worth,Yes,08-11,NSW,3,3
+Jacklin Duchant,Female,70-79,60+,Argiculture,Mass Customer,No,16-19,QLD,4,2
+Colas Gabbitas,Male,90-99,60+,Retail,High Net Worth,No,20-22,NSW,9,2
+Claudetta Ricciardiello,Female,60-69,40-49,Financial Services,Mass Customer,Yes,20-22,VIC,8,4
+Angele Cadore,Female,0-9,60+,,Mass Customer,Yes,04-07,QLD,7,2
+Cicily Hast,Female,60-69,40-49,Health,Affluent Customer,Yes,08-11,NSW,3,4
+Harland Messenger,Male,90-99,40-49,Retail,Mass Customer,No,08-11,VIC,10,4
+Sim Constantinou,Male,90-99,18-29,Property,Mass Customer,No,04-07,NSW,9,4
+Shanon Rolfe,Female,60-69,60+,Retail,High Net Worth,No,08-11,NSW,7,2
+Chryste Oddboy,Female,40-49,30-39,Manufacturing,High Net Worth,Yes,04-07,NSW,9,4
+Edin Patinkin,Female,30-39,18-29,Health,Mass Customer,No,16-19,VIC,4,3
+Nolly Ivanchikov,Male,10-19,18-29,Manufacturing,High Net Worth,Yes,08-11,NSW,11,4
+Michele Pammenter,Male,20-29,30-39,Health,High Net Worth,No,00-03,VIC,8,2
+Liane Abelevitz,Female,20-29,40-49,,Mass Customer,No,00-03,VIC,7,2
+Philbert Bangs,Male,60-69,50-59,IT,Mass Customer,Yes,04-07,QLD,7,2
+,Female,20-29,40-49,Financial Services,Mass Customer,No,04-07,VIC,3,4
+Noami Cokly,Female,70-79,50-59,Manufacturing,Mass Customer,Yes,12-15,NSW,11,5
+Lyndell Jereatt,Female,10-19,18-29,,High Net Worth,No,12-15,NSW,12,2
+Maximilien Bourget,Male,10-19,50-59,Financial Services,Mass Customer,Yes,04-07,VIC,7,3
+Benedikta Naptin,Female,50-59,18-29,Retail,Mass Customer,Yes,12-15,NSW,11,4
+Rhodie Gaskall,Female,80-89,50-59,,Mass Customer,Yes,08-11,QLD,9,3
+Afton Andrassy,Female,70-79,18-29,Retail,Mass Customer,No,04-07,VIC,8,3
+Blondell Dibdall,Female,60-69,50-59,,Mass Customer,No,04-07,VIC,4,2
+Sonia Dunstall,Female,0-9,40-49,Financial Services,Mass Customer,No,08-11,NSW,9,6
+Benedikt Adamou,Male,10-19,30-39,Health,Mass Customer,No,08-11,VIC,3,3
+Don Spratling,Male,80-89,50-59,Property,Affluent Customer,Yes,04-07,NSW,10,3
+Moll Ogilby,Female,20-29,30-39,Manufacturing,Mass Customer,Yes,12-15,QLD,6,3
+Jammie Seldner,Female,40-49,40-49,Health,Mass Customer,Yes,12-15,NSW,10,6
+Inglis Pickaver,Male,30-39,18-29,Telecommunications,Affluent Customer,No,00-03,NSW,8,2
+Clarabelle Broschek,Female,0-9,50-59,Manufacturing,Mass Customer,No,16-19,QLD,6,3
+Tillie Bisseker,Female,70-79,60+,Manufacturing,High Net Worth,No,12-15,NSW,12,3
+Irving Babcock,Male,60-69,30-39,Health,High Net Worth,Yes,12-15,NSW,1,3
+Evered Gludor,Male,0-9,60+,Manufacturing,High Net Worth,Yes,12-15,NSW,8,4
+Mavra Finan,Female,30-39,50-59,Property,Affluent Customer,Yes,04-07,NSW,9,3
+Frieda Tavinor,Female,40-49,18-29,,Affluent Customer,No,08-11,VIC,6,1
+Ellwood Budden,Male,80-89,18-29,Health,Mass Customer,Yes,08-11,NSW,10,5
+Alex Patshull,Female,30-39,50-59,Retail,Mass Customer,Yes,12-15,QLD,5,2
+Aundrea Outridge,Female,70-79,18-29,Financial Services,Affluent Customer,Yes,08-11,VIC,12,2
+Amby Bodega,Male,60-69,50-59,,Affluent Customer,Yes,16-19,VIC,6,1
+Esme Pilipets,Male,10-19,50-59,Health,Mass Customer,Yes,04-07,VIC,9,4
+Beverly Domnick,Female,50-59,60+,IT,Mass Customer,No,08-11,NSW,10,4
+Artemis Swanson,Male,70-79,40-49,Argiculture,Mass Customer,Yes,12-15,VIC,5,3
+Daryle Marginson,Male,90-99,30-39,Argiculture,Mass Customer,Yes,08-11,NSW,12,3
+Tyne Anshell,Female,70-79,18-29,,Mass Customer,Yes,00-03,NSW,8,3
+Leona Shorrock,Female,80-89,60+,Financial Services,Affluent Customer,Yes,20-22,QLD,1,1
+Bertrando Carass,Male,40-49,60+,Property,Mass Customer,No,08-11,NSW,5,3
+Augusta Munns,Female,0-9,60+,,Mass Customer,No,20-22,NSW,11,3
+Pauline Dallosso,U,80-89,60+,IT,Affluent Customer,Yes,00-03,NSW,10,2
+Lauralee Fudge,Female,80-89,30-39,Health,Mass Customer,No,12-15,VIC,4,3
+Consalve Ballay,Male,40-49,60+,IT,Mass Customer,Yes,04-07,NSW,8,4
+Lolly Prewer,Female,40-49,18-29,Health,Mass Customer,No,12-15,NSW,7,4
+Vyky Pegg,Female,60-69,60+,Manufacturing,Mass Customer,Yes,08-11,NSW,7,4
+Kellen Pawelski,Female,80-89,60+,Manufacturing,High Net Worth,Yes,08-11,NSW,8,4
+Jermaine Bagshawe,Female,60-69,60+,Property,Mass Customer,Yes,08-11,QLD,6,2
+Bryan Jachtym,Male,50-59,40-49,Manufacturing,Mass Customer,Yes,12-15,VIC,3,4
+Renie Laundon,Female,30-39,40-49,Entertainment,Mass Customer,Yes,08-11,QLD,3,3
+Weidar Etheridge,Male,30-39,60+,Financial Services,Mass Customer,Yes,04-07,NSW,4,4
+Datha Fishburn,Female,10-19,30-39,Retail,Mass Customer,No,00-03,VIC,12,1
+Ferdinand Romanetti,Male,60-69,60+,Financial Services,Affluent Customer,No,08-11,NSW,7,3
+Burk Wortley,Male,20-29,18-29,Health,Mass Customer,No,04-07,NSW,10,5
+Melloney Temby,Female,10-19,60+,Financial Services,Affluent Customer,Yes,12-15,QLD,2,2
+Dickie Cubbini,Male,30-39,60+,Financial Services,Mass Customer,Yes,16-19,QLD,2,3
+Sylas Duffill,Male,50-59,60+,Property,Mass Customer,Yes,12-15,NSW,9,4

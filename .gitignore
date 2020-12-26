@@ -1,3 +1,4 @@
 /.vscode
 venv
 ~$DataInsights.pptx
+__pycache__
